@@ -1,0 +1,25 @@
+{
+  "rides": [
+    {
+      "ride_id": "123456789",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "15.2 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-10-21T09:30:00Z"
+    },
+    {
+      "ride_id": "987654321",
+      "vehicle_type": "SUV",
+      "distance_traveled": "7.8 km",
+      "ride_duration": "12 minutes",
+      "start_time": "2024-10-21T11:15:00Z"
+    },
+    {
+      "ride_id": "456123789",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "22.5 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-10-21T14:00:00Z"
+    }
+  ]
+}
