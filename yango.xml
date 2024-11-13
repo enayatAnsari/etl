@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<rides>    
     <ride>
         <ride_id>123456789</ride_id>
         <vehicle_type>Sedan</vehicle_type>
@@ -159,3 +160,4 @@
         <start_time>2024-11-07T17:30:00Z</start_time>
         <finalized>false</finalized>
     </ride>
+</rides>
