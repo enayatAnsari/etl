@@ -1,5 +1,4 @@
-{
-  "rides": [
+[
     {
       "ride_id": "239853563",
       "vehicle_type": "Van",
@@ -7000,5 +6999,4 @@
       "ride_duration": "14 minutes",
       "start_time": "2024-07-17T13:15:15Z"
     }
-  ]
-}
+]
