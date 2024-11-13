@@ -1,0 +1,162 @@
+<rides>
+    <ride>
+        <ride_id>123456789</ride_id>
+        <vehicle_type>Sedan</vehicle_type>
+        <distance_traveled unit="km">15.2</distance_traveled>
+        <ride_duration>25 minutes</ride_duration>
+        <start_time>2024-10-21T09:30:00Z</start_time>
+        <finalized>true</finalized>
+    </ride>
+    <ride>
+        <ride_id>987654321</ride_id>
+        <vehicle_type>SUV</vehicle_type>
+        <distance_traveled unit="miles">9.5</distance_traveled>
+        <ride_duration>12 minutes</ride_duration>
+        <start_time>2024-11-01T11:15:00Z</start_time>
+        <finalized>false</finalized>
+    </ride>
+    <ride>
+        <ride_id>456123789</ride_id>
+        <vehicle_type>Hatchback</vehicle_type>
+        <distance_traveled unit="km">22.5</distance_traveled>
+        <ride_duration>40 minutes</ride_duration>
+        <start_time>2024-07-15T14:00:00Z</start_time>
+        <finalized>true</finalized>
+    </ride>
+    <ride>
+        <ride_id>631284912</ride_id>
+        <vehicle_type>Coupe</vehicle_type>
+        <distance_traveled unit="miles">18.3</distance_traveled>
+        <ride_duration>30 minutes</ride_duration>
+        <start_time>2024-04-11T17:45:00Z</start_time>
+        <finalized>false</finalized>
+    </ride>
+    <ride>
+        <ride_id>564738920</ride_id>
+        <vehicle_type>Van</vehicle_type>
+        <distance_traveled unit="km">9.5</distance_traveled>
+        <ride_duration>15 minutes</ride_duration>
+        <start_time>2024-08-25T12:20:00Z</start_time>
+        <finalized>true</finalized>
+    </ride>
+    <ride>
+        <ride_id>129837456</ride_id>
+        <vehicle_type>SUV</vehicle_type>
+        <distance_traveled unit="miles">17.0</distance_traveled>
+        <ride_duration>50 minutes</ride_duration>
+        <start_time>2024-05-03T08:15:00Z</start_time>
+        <finalized>false</finalized>
+    </ride>
+    <ride>
+        <ride_id>678902134</ride_id>
+        <vehicle_type>Sedan</vehicle_type>
+        <distance_traveled unit="km">11.8</distance_traveled>
+        <ride_duration>20 minutes</ride_duration>
+        <start_time>2024-06-30T18:40:00Z</start_time>
+        <finalized>true</finalized>
+    </ride>
+    <ride>
+        <ride_id>847263514</ride_id>
+        <vehicle_type>Hatchback</vehicle_type>
+        <distance_traveled unit="miles">9.1</distance_traveled>
+        <ride_duration>25 minutes</ride_duration>
+        <start_time>2024-09-09T10:55:00Z</start_time>
+        <finalized>false</finalized>
+    </ride>
+    <ride>
+        <ride_id>345612789</ride_id>
+        <vehicle_type>Coupe</vehicle_type>
+        <distance_traveled unit="km">6.3</distance_traveled>
+        <ride_duration>12 minutes</ride_duration>
+        <start_time>2024-11-12T09:05:00Z</start_time>
+        <finalized>true</finalized>
+    </ride>
+    <ride>
+        <ride_id>567890123</ride_id>
+        <vehicle_type>Sedan</vehicle_type>
+        <distance_traveled unit="miles">18.6</distance_traveled>
+        <ride_duration>58 minutes</ride_duration>
+        <start_time>2024-05-17T14:35:00Z</start_time>
+        <finalized>false</finalized>
+    </ride>
+    <ride>
+        <ride_id>234567890</ride_id>
+        <vehicle_type>Van</vehicle_type>
+        <distance_traveled unit="km">19.7</distance_traveled>
+        <ride_duration>35 minutes</ride_duration>
+        <start_time>2024-03-21T15:30:00Z</start_time>
+        <finalized>true</finalized>
+    </ride>
+    <ride>
+        <ride_id>135792468</ride_id>
+        <vehicle_type>SUV</vehicle_type>
+        <distance_traveled unit="miles">7.5</distance_traveled>
+        <ride_duration>22 minutes</ride_duration>
+        <start_time>2024-02-01T12:10:00Z</start_time>
+        <finalized>false</finalized>
+    </ride>
+    <ride>
+        <ride_id>246813579</ride_id>
+        <vehicle_type>Coupe</vehicle_type>
+        <distance_traveled unit="km">5.9</distance_traveled>
+        <ride_duration>15 minutes</ride_duration>
+        <start_time>2024-10-30T09:40:00Z</start_time>
+        <finalized>true</finalized>
+    </ride>
+    <ride>
+        <ride_id>975318642</ride_id>
+        <vehicle_type>Sedan</vehicle_type>
+        <distance_traveled unit="miles">16.0</distance_traveled>
+        <ride_duration>40 minutes</ride_duration>
+        <start_time>2024-07-08T13:25:00Z</start_time>
+        <finalized>true</finalized>
+    </ride>
+    <ride>
+        <ride_id>102938475</ride_id>
+        <vehicle_type>Hatchback</vehicle_type>
+        <distance_traveled unit="km">8.7</distance_traveled>
+        <ride_duration>20 minutes</ride_duration>
+        <start_time>2024-04-10T10:50:00Z</start_time>
+        <finalized>false</finalized>
+    </ride>
+    <ride>
+        <ride_id>564738291</ride_id>
+        <vehicle_type>Van</vehicle_type>
+        <distance_traveled unit="km">12.0</distance_traveled>
+        <ride_duration>27 minutes</ride_duration>
+        <start_time>2024-08-15T16:40:00Z</start_time>
+        <finalized>true</finalized>
+    </ride>
+    <ride>
+        <ride_id>398475612</ride_id>
+        <vehicle_type>Coupe</vehicle_type>
+        <distance_traveled unit="miles">14.2</distance_traveled>
+        <ride_duration>33 minutes</ride_duration>
+        <start_time>2024-09-25T14:10:00Z</start_time>
+        <finalized>false</finalized>
+    </ride>
+    <ride>
+        <ride_id>718263945</ride_id>
+        <vehicle_type>SUV</vehicle_type>
+        <distance_traveled unit="km">10.5</distance_traveled>
+        <ride_duration>18 minutes</ride_duration>
+        <start_time>2024-06-12T11:20:00Z</start_time>
+        <finalized>true</finalized>
+    </ride>
+    <ride>
+        <ride_id>847162539</ride_id>
+        <vehicle_type>Hatchback</vehicle_type>
+        <distance_traveled unit="miles">6.7</distance_traveled>
+        <ride_duration>14 minutes</ride_duration>
+        <start_time>2024-12-01T13:45:00Z</start_time>
+        <finalized>true</finalized>
+    </ride>
+    <ride>
+        <ride_id>261837495</ride_id>
+        <vehicle_type>Van</vehicle_type>
+        <distance_traveled unit="km">21.3</distance_traveled>
+        <ride_duration>48 minutes</ride_duration>
+        <start_time>2024-11-07T17:30:00Z</start_time>
+        <finalized>false</finalized>
+    </ride>
+</rides>
