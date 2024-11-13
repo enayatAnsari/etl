@@ -1,25 +1,7004 @@
 {
   "rides": [
     {
-      "ride_id": "123456789",
+      "ride_id": "239853563",
+      "vehicle_type": "Van",
+      "distance_traveled": "14.1 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-09-12T23:22:21Z"
+    },
+    {
+      "ride_id": "192972961",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "28.9 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-01-20T09:39:27Z"
+    },
+    {
+      "ride_id": "185762668",
+      "vehicle_type": "SUV",
+      "distance_traveled": "6.3 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-11-22T06:22:47Z"
+    },
+    {
+      "ride_id": "252797652",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "8.1 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-09-27T18:40:57Z"
+    },
+    {
+      "ride_id": "222275523",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "21.8 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-04-29T21:01:06Z"
+    },
+    {
+      "ride_id": "119781266",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.6 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-01-12T11:27:35Z"
+    },
+    {
+      "ride_id": "309898125",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "6.7 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-04-22T12:05:57Z"
+    },
+    {
+      "ride_id": "696783013",
+      "vehicle_type": "Van",
+      "distance_traveled": "11.1 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-12-02T12:50:40Z"
+    },
+    {
+      "ride_id": "111289750",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "14.1 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-09-20T17:21:12Z"
+    },
+    {
+      "ride_id": "374632029",
+      "vehicle_type": "Van",
+      "distance_traveled": "25.5 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-05-02T11:07:26Z"
+    },
+    {
+      "ride_id": "174108614",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "25.9 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-07-10T07:18:50Z"
+    },
+    {
+      "ride_id": "110646070",
+      "vehicle_type": "SUV",
+      "distance_traveled": "20.6 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-03-31T17:47:30Z"
+    },
+    {
+      "ride_id": "145685463",
+      "vehicle_type": "Van",
+      "distance_traveled": "15.0 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-04-30T15:51:02Z"
+    },
+    {
+      "ride_id": "331938593",
+      "vehicle_type": "SUV",
+      "distance_traveled": "20.2 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-03-06T16:42:07Z"
+    },
+    {
+      "ride_id": "659279110",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "6.3 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-02-04T03:17:20Z"
+    },
+    {
+      "ride_id": "103767327",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "13.4 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-07-19T05:57:18Z"
+    },
+    {
+      "ride_id": "760975396",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "27.1 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-02-25T11:59:45Z"
+    },
+    {
+      "ride_id": "208983787",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "5.2 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-05-31T06:34:01Z"
+    },
+    {
+      "ride_id": "129569366",
+      "vehicle_type": "SUV",
+      "distance_traveled": "21.4 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-04-23T04:15:06Z"
+    },
+    {
+      "ride_id": "227952369",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.8 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-11-12T17:45:01Z"
+    },
+    {
+      "ride_id": "100875930",
+      "vehicle_type": "SUV",
+      "distance_traveled": "20.7 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-01-27T17:01:31Z"
+    },
+    {
+      "ride_id": "162571474",
+      "vehicle_type": "SUV",
+      "distance_traveled": "29.0 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-03-11T19:02:58Z"
+    },
+    {
+      "ride_id": "249857669",
+      "vehicle_type": "SUV",
+      "distance_traveled": "17.5 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-08-11T23:47:22Z"
+    },
+    {
+      "ride_id": "220946446",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "24.4 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-08-22T19:48:49Z"
+    },
+    {
+      "ride_id": "190541954",
+      "vehicle_type": "Van",
+      "distance_traveled": "7.7 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-01-07T13:30:20Z"
+    },
+    {
+      "ride_id": "108072978",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "16.4 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-02-22T07:20:20Z"
+    },
+    {
+      "ride_id": "285307555",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "28.0 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-07-13T18:51:46Z"
+    },
+    {
+      "ride_id": "149174394",
+      "vehicle_type": "SUV",
+      "distance_traveled": "24.9 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-03-28T15:23:50Z"
+    },
+    {
+      "ride_id": "235220744",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "21.1 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-03-14T21:22:35Z"
+    },
+    {
+      "ride_id": "243793283",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.6 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-12-18T06:04:51Z"
+    },
+    {
+      "ride_id": "125600055",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "6.0 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-06-13T10:17:06Z"
+    },
+    {
+      "ride_id": "117233782",
+      "vehicle_type": "SUV",
+      "distance_traveled": "15.5 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-08-13T21:54:40Z"
+    },
+    {
+      "ride_id": "300334258",
+      "vehicle_type": "Van",
+      "distance_traveled": "20.3 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-11-03T13:53:03Z"
+    },
+    {
+      "ride_id": "189218588",
+      "vehicle_type": "Van",
+      "distance_traveled": "20.4 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-01-03T23:48:34Z"
+    },
+    {
+      "ride_id": "319795509",
+      "vehicle_type": "Van",
+      "distance_traveled": "14.9 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-02-25T01:42:41Z"
+    },
+    {
+      "ride_id": "267323077",
+      "vehicle_type": "SUV",
+      "distance_traveled": "26.8 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-10-15T12:11:36Z"
+    },
+    {
+      "ride_id": "258185890",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "5.8 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-03-25T08:19:50Z"
+    },
+    {
+      "ride_id": "196920396",
+      "vehicle_type": "SUV",
+      "distance_traveled": "17.6 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-03-30T14:45:05Z"
+    },
+    {
+      "ride_id": "156145588",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "23.1 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-12-17T07:41:59Z"
+    },
+    {
+      "ride_id": "188045834",
+      "vehicle_type": "SUV",
+      "distance_traveled": "23.8 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-03-30T02:47:11Z"
+    },
+    {
+      "ride_id": "248083551",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "15.0 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-08-17T18:17:15Z"
+    },
+    {
+      "ride_id": "260570788",
+      "vehicle_type": "SUV",
+      "distance_traveled": "15.5 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-08-07T07:55:48Z"
+    },
+    {
+      "ride_id": "107591610",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "7.6 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-06-10T09:25:20Z"
+    },
+    {
+      "ride_id": "195020770",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "17.8 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-04-24T21:11:30Z"
+    },
+    {
+      "ride_id": "319311941",
+      "vehicle_type": "SUV",
+      "distance_traveled": "9.8 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-07-10T02:56:07Z"
+    },
+    {
+      "ride_id": "276274412",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "24.9 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-11-29T13:11:21Z"
+    },
+    {
+      "ride_id": "336748793",
+      "vehicle_type": "SUV",
+      "distance_traveled": "21.8 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-09-26T07:57:24Z"
+    },
+    {
+      "ride_id": "535458349",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "29.5 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-01-16T19:13:35Z"
+    },
+    {
+      "ride_id": "399586710",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "15.6 km",
+      "ride_duration": "60 minutes",
+      "start_time": "2024-01-11T02:16:49Z"
+    },
+    {
+      "ride_id": "122725617",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "22.0 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-03-16T14:57:00Z"
+    },
+    {
+      "ride_id": "758028144",
+      "vehicle_type": "SUV",
+      "distance_traveled": "27.0 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-03-12T01:54:59Z"
+    },
+    {
+      "ride_id": "269220698",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "9.1 km",
+      "ride_duration": "60 minutes",
+      "start_time": "2024-01-14T22:14:21Z"
+    },
+    {
+      "ride_id": "125110570",
+      "vehicle_type": "SUV",
+      "distance_traveled": "18.0 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-10-31T17:27:07Z"
+    },
+    {
+      "ride_id": "307979087",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "18.3 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-03-23T03:45:29Z"
+    },
+    {
+      "ride_id": "116844735",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "24.4 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-11-15T00:12:25Z"
+    },
+    {
+      "ride_id": "176810578",
+      "vehicle_type": "SUV",
+      "distance_traveled": "9.1 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-06-12T23:05:10Z"
+    },
+    {
+      "ride_id": "103568464",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "28.7 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-11-20T07:45:57Z"
+    },
+    {
+      "ride_id": "203132350",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "9.4 km",
+      "ride_duration": "60 minutes",
+      "start_time": "2024-12-04T19:36:25Z"
+    },
+    {
+      "ride_id": "721756977",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "25.3 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-01-27T15:28:30Z"
+    },
+    {
+      "ride_id": "251140157",
+      "vehicle_type": "Van",
+      "distance_traveled": "6.5 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-04-01T17:03:52Z"
+    },
+    {
+      "ride_id": "155984097",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "11.7 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-04-30T21:19:03Z"
+    },
+    {
+      "ride_id": "177322658",
+      "vehicle_type": "SUV",
+      "distance_traveled": "22.3 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-03-22T01:53:03Z"
+    },
+    {
+      "ride_id": "189572471",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "9.5 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-01-07T22:29:31Z"
+    },
+    {
+      "ride_id": "258113901",
+      "vehicle_type": "Van",
+      "distance_traveled": "15.5 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-03-29T02:22:29Z"
+    },
+    {
+      "ride_id": "281997813",
+      "vehicle_type": "Van",
+      "distance_traveled": "20.5 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-02-22T01:22:21Z"
+    },
+    {
+      "ride_id": "451260935",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "23.4 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-07-17T12:58:32Z"
+    },
+    {
+      "ride_id": "195567437",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "27.2 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-09-19T00:26:52Z"
+    },
+    {
+      "ride_id": "183372812",
+      "vehicle_type": "Van",
+      "distance_traveled": "5.2 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-07-22T02:02:50Z"
+    },
+    {
+      "ride_id": "149006597",
+      "vehicle_type": "SUV",
+      "distance_traveled": "14.2 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-03-29T17:46:54Z"
+    },
+    {
+      "ride_id": "165602560",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "6.3 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-12-29T11:33:41Z"
+    },
+    {
+      "ride_id": "142500724",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.9 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-02-26T01:50:19Z"
+    },
+    {
+      "ride_id": "456153628",
+      "vehicle_type": "Van",
+      "distance_traveled": "20.6 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-10-04T14:16:08Z"
+    },
+    {
+      "ride_id": "572314022",
+      "vehicle_type": "SUV",
+      "distance_traveled": "21.2 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-07-20T02:25:02Z"
+    },
+    {
+      "ride_id": "335923594",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "25.7 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-01-13T12:53:29Z"
+    },
+    {
+      "ride_id": "602938436",
+      "vehicle_type": "Van",
+      "distance_traveled": "9.7 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-02-14T09:10:50Z"
+    },
+    {
+      "ride_id": "154033642",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.9 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-10-10T20:33:58Z"
+    },
+    {
+      "ride_id": "129703897",
+      "vehicle_type": "Van",
+      "distance_traveled": "24.8 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-01-25T15:52:49Z"
+    },
+    {
+      "ride_id": "135807708",
+      "vehicle_type": "Van",
+      "distance_traveled": "23.9 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-03-04T23:25:10Z"
+    },
+    {
+      "ride_id": "134594920",
+      "vehicle_type": "Van",
+      "distance_traveled": "13.3 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-02-09T20:49:54Z"
+    },
+    {
+      "ride_id": "329694367",
+      "vehicle_type": "Van",
+      "distance_traveled": "12.0 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-02-08T07:54:58Z"
+    },
+    {
+      "ride_id": "819509352",
+      "vehicle_type": "Van",
+      "distance_traveled": "24.5 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-05-12T12:54:27Z"
+    },
+    {
+      "ride_id": "183411083",
+      "vehicle_type": "Van",
+      "distance_traveled": "12.9 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-05-24T18:09:46Z"
+    },
+    {
+      "ride_id": "323514389",
+      "vehicle_type": "Van",
+      "distance_traveled": "14.7 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-03-26T02:44:15Z"
+    },
+    {
+      "ride_id": "291755470",
       "vehicle_type": "Sedan",
       "distance_traveled": "15.2 km",
-      "ride_duration": "25 minutes",
-      "start_time": "2024-10-21T09:30:00Z"
+      "ride_duration": "27 minutes",
+      "start_time": "2024-03-31T23:12:24Z"
     },
     {
-      "ride_id": "987654321",
+      "ride_id": "144490369",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.4 km",
+      "ride_duration": "60 minutes",
+      "start_time": "2024-03-04T14:49:55Z"
+    },
+    {
+      "ride_id": "193992514",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "23.9 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-09-29T22:00:52Z"
+    },
+    {
+      "ride_id": "424057906",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "29.1 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-01-17T15:07:35Z"
+    },
+    {
+      "ride_id": "126212012",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "29.1 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-03-24T19:55:31Z"
+    },
+    {
+      "ride_id": "315469605",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "14.5 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-11-22T12:50:23Z"
+    },
+    {
+      "ride_id": "316519839",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "14.2 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-12-30T02:03:01Z"
+    },
+    {
+      "ride_id": "126105007",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "16.4 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-03-20T14:33:35Z"
+    },
+    {
+      "ride_id": "238028689",
+      "vehicle_type": "SUV",
+      "distance_traveled": "6.3 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-07-05T00:54:57Z"
+    },
+    {
+      "ride_id": "790880349",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.8 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-02-08T10:52:31Z"
+    },
+    {
+      "ride_id": "228012758",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "12.6 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-11-24T17:32:22Z"
+    },
+    {
+      "ride_id": "472371378",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.6 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-06-05T14:20:08Z"
+    },
+    {
+      "ride_id": "542292829",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "7.4 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-01-08T04:56:21Z"
+    },
+    {
+      "ride_id": "522521471",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "14.3 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-06-30T23:43:38Z"
+    },
+    {
+      "ride_id": "813202340",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "28.0 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-11-13T08:01:12Z"
+    },
+    {
+      "ride_id": "289650267",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "17.7 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-05-22T13:04:48Z"
+    },
+    {
+      "ride_id": "188778454",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "20.3 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-09-15T03:16:31Z"
+    },
+    {
+      "ride_id": "276922814",
+      "vehicle_type": "SUV",
+      "distance_traveled": "14.6 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-01-31T10:33:20Z"
+    },
+    {
+      "ride_id": "211409831",
+      "vehicle_type": "Van",
+      "distance_traveled": "15.1 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-11-25T21:02:33Z"
+    },
+    {
+      "ride_id": "110734498",
+      "vehicle_type": "SUV",
+      "distance_traveled": "23.4 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-12-15T12:37:01Z"
+    },
+    {
+      "ride_id": "100658732",
+      "vehicle_type": "Van",
+      "distance_traveled": "16.0 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-03-27T13:09:24Z"
+    },
+    {
+      "ride_id": "312762959",
+      "vehicle_type": "SUV",
+      "distance_traveled": "25.6 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-02-22T21:42:28Z"
+    },
+    {
+      "ride_id": "194208356",
+      "vehicle_type": "Van",
+      "distance_traveled": "7.1 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-08-07T20:03:36Z"
+    },
+    {
+      "ride_id": "204970059",
+      "vehicle_type": "Van",
+      "distance_traveled": "22.1 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-02-14T20:06:59Z"
+    },
+    {
+      "ride_id": "248047599",
+      "vehicle_type": "Van",
+      "distance_traveled": "24.4 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-02-26T18:06:58Z"
+    },
+    {
+      "ride_id": "153551712",
+      "vehicle_type": "SUV",
+      "distance_traveled": "12.2 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-12-26T14:08:28Z"
+    },
+    {
+      "ride_id": "258404798",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "18.4 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-02-03T10:31:39Z"
+    },
+    {
+      "ride_id": "290268556",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "28.2 km",
+      "ride_duration": "60 minutes",
+      "start_time": "2024-02-26T01:29:26Z"
+    },
+    {
+      "ride_id": "203669504",
+      "vehicle_type": "SUV",
+      "distance_traveled": "24.3 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-10-15T11:34:47Z"
+    },
+    {
+      "ride_id": "114063816",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.6 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-04-17T04:01:40Z"
+    },
+    {
+      "ride_id": "653575561",
+      "vehicle_type": "Van",
+      "distance_traveled": "25.0 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-11-24T20:52:59Z"
+    },
+    {
+      "ride_id": "203229091",
+      "vehicle_type": "Van",
+      "distance_traveled": "8.1 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-08-15T18:52:59Z"
+    },
+    {
+      "ride_id": "335997432",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.2 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-06-04T15:27:55Z"
+    },
+    {
+      "ride_id": "996146892",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "22.2 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-10-06T10:15:37Z"
+    },
+    {
+      "ride_id": "228053587",
+      "vehicle_type": "Van",
+      "distance_traveled": "20.2 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-02-04T13:34:50Z"
+    },
+    {
+      "ride_id": "223905438",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "28.1 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-08-18T09:19:10Z"
+    },
+    {
+      "ride_id": "305514662",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "6.8 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-10-21T16:16:33Z"
+    },
+    {
+      "ride_id": "204751503",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "8.5 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-04-19T06:09:48Z"
+    },
+    {
+      "ride_id": "282752704",
+      "vehicle_type": "Van",
+      "distance_traveled": "27.5 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-11-20T04:05:19Z"
+    },
+    {
+      "ride_id": "122867606",
+      "vehicle_type": "Van",
+      "distance_traveled": "10.8 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-01-09T10:41:16Z"
+    },
+    {
+      "ride_id": "255073083",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.6 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-02-26T12:16:25Z"
+    },
+    {
+      "ride_id": "173897261",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "17.6 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-11-26T16:36:47Z"
+    },
+    {
+      "ride_id": "229365309",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "21.6 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-08-28T02:09:05Z"
+    },
+    {
+      "ride_id": "218434590",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "9.8 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-07-15T08:43:45Z"
+    },
+    {
+      "ride_id": "248604000",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "11.0 km",
+      "ride_duration": "60 minutes",
+      "start_time": "2024-03-23T11:29:03Z"
+    },
+    {
+      "ride_id": "215862857",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "5.4 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-10-19T01:36:27Z"
+    },
+    {
+      "ride_id": "118699471",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "26.1 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-01-09T19:03:35Z"
+    },
+    {
+      "ride_id": "216603050",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "17.5 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-11-01T22:33:42Z"
+    },
+    {
+      "ride_id": "872382962",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "8.6 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-08-11T02:52:23Z"
+    },
+    {
+      "ride_id": "154828499",
+      "vehicle_type": "SUV",
+      "distance_traveled": "22.4 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-10-09T07:11:17Z"
+    },
+    {
+      "ride_id": "184171634",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "29.7 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-09-19T11:23:57Z"
+    },
+    {
+      "ride_id": "280292155",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "25.8 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-01-15T02:21:50Z"
+    },
+    {
+      "ride_id": "308748996",
+      "vehicle_type": "Van",
+      "distance_traveled": "7.9 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-08-04T17:44:52Z"
+    },
+    {
+      "ride_id": "952147824",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "23.1 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-04-21T23:07:12Z"
+    },
+    {
+      "ride_id": "269269769",
+      "vehicle_type": "SUV",
+      "distance_traveled": "7.4 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-07-11T19:34:14Z"
+    },
+    {
+      "ride_id": "321218924",
+      "vehicle_type": "SUV",
+      "distance_traveled": "10.0 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-08-27T13:16:45Z"
+    },
+    {
+      "ride_id": "156911655",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.7 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-01-24T19:48:35Z"
+    },
+    {
+      "ride_id": "507661913",
+      "vehicle_type": "SUV",
+      "distance_traveled": "5.8 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-10-26T03:52:16Z"
+    },
+    {
+      "ride_id": "326982375",
+      "vehicle_type": "SUV",
+      "distance_traveled": "23.3 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-04-18T06:54:14Z"
+    },
+    {
+      "ride_id": "256191635",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "28.7 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-02-19T11:52:30Z"
+    },
+    {
+      "ride_id": "471418066",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "11.1 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-06-02T20:56:29Z"
+    },
+    {
+      "ride_id": "317979219",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "17.2 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-01-11T00:17:35Z"
+    },
+    {
+      "ride_id": "192785112",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "5.0 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-08-21T21:16:50Z"
+    },
+    {
+      "ride_id": "100555060",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "12.0 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-11-26T12:32:59Z"
+    },
+    {
+      "ride_id": "556605094",
+      "vehicle_type": "Van",
+      "distance_traveled": "19.0 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-08-02T04:41:28Z"
+    },
+    {
+      "ride_id": "239306117",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "18.7 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-07-15T01:19:31Z"
+    },
+    {
+      "ride_id": "104920657",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "29.3 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-02-24T17:41:59Z"
+    },
+    {
+      "ride_id": "199355793",
+      "vehicle_type": "SUV",
+      "distance_traveled": "17.8 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-04-18T01:32:58Z"
+    },
+    {
+      "ride_id": "181173992",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "18.7 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-09-01T12:21:18Z"
+    },
+    {
+      "ride_id": "118006526",
+      "vehicle_type": "SUV",
+      "distance_traveled": "26.4 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-03-31T14:02:36Z"
+    },
+    {
+      "ride_id": "198634665",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "5.6 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-04-21T15:34:05Z"
+    },
+    {
+      "ride_id": "292444431",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "14.8 km",
+      "ride_duration": "12 minutes",
+      "start_time": "2024-07-28T20:45:02Z"
+    },
+    {
+      "ride_id": "734335306",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "26.6 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-04-22T21:13:04Z"
+    },
+    {
+      "ride_id": "182123939",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "28.9 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-01-28T21:18:17Z"
+    },
+    {
+      "ride_id": "330525903",
+      "vehicle_type": "SUV",
+      "distance_traveled": "23.0 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-09-09T01:55:52Z"
+    },
+    {
+      "ride_id": "154265005",
+      "vehicle_type": "SUV",
+      "distance_traveled": "24.0 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-07-22T13:14:14Z"
+    },
+    {
+      "ride_id": "739580214",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "27.3 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-03-21T13:08:28Z"
+    },
+    {
+      "ride_id": "317374856",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "27.8 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-07-17T04:45:40Z"
+    },
+    {
+      "ride_id": "163328042",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "28.8 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-03-05T23:56:44Z"
+    },
+    {
+      "ride_id": "360890918",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "20.9 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-03-04T10:32:37Z"
+    },
+    {
+      "ride_id": "314173744",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "9.7 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-06-26T20:18:49Z"
+    },
+    {
+      "ride_id": "167451729",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "14.9 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-03-23T18:41:29Z"
+    },
+    {
+      "ride_id": "258337679",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "7.0 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-09-16T23:47:58Z"
+    },
+    {
+      "ride_id": "216244338",
+      "vehicle_type": "Van",
+      "distance_traveled": "10.7 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-01-14T03:31:13Z"
+    },
+    {
+      "ride_id": "426289044",
+      "vehicle_type": "Van",
+      "distance_traveled": "23.8 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-08-01T04:22:39Z"
+    },
+    {
+      "ride_id": "165311247",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "25.1 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-03-31T10:43:44Z"
+    },
+    {
+      "ride_id": "181314843",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "16.1 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-12-18T18:45:59Z"
+    },
+    {
+      "ride_id": "381720233",
+      "vehicle_type": "SUV",
+      "distance_traveled": "10.2 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-09-19T13:07:30Z"
+    },
+    {
+      "ride_id": "172406786",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "28.0 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-04-28T21:24:32Z"
+    },
+    {
+      "ride_id": "898417209",
+      "vehicle_type": "Van",
+      "distance_traveled": "6.6 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-07-17T18:15:55Z"
+    },
+    {
+      "ride_id": "383292448",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "13.8 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-02-21T22:26:09Z"
+    },
+    {
+      "ride_id": "411620101",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.4 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-02-18T00:13:21Z"
+    },
+    {
+      "ride_id": "242450444",
+      "vehicle_type": "Van",
+      "distance_traveled": "20.1 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-01-31T09:54:38Z"
+    },
+    {
+      "ride_id": "159193178",
+      "vehicle_type": "SUV",
+      "distance_traveled": "17.5 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-12-18T21:42:58Z"
+    },
+    {
+      "ride_id": "354957973",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "7.6 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-11-20T16:58:33Z"
+    },
+    {
+      "ride_id": "333251022",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "13.5 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-07-21T19:07:46Z"
+    },
+    {
+      "ride_id": "147700814",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "26.9 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-12-27T14:34:04Z"
+    },
+    {
+      "ride_id": "334781944",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "21.2 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-03-17T14:32:43Z"
+    },
+    {
+      "ride_id": "217992493",
+      "vehicle_type": "Van",
+      "distance_traveled": "5.1 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-07-09T01:16:04Z"
+    },
+    {
+      "ride_id": "967381172",
+      "vehicle_type": "Van",
+      "distance_traveled": "28.4 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-12-17T10:03:14Z"
+    },
+    {
+      "ride_id": "938199180",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "17.5 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-10-06T02:35:25Z"
+    },
+    {
+      "ride_id": "257164486",
+      "vehicle_type": "Van",
+      "distance_traveled": "13.5 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-02-10T08:05:58Z"
+    },
+    {
+      "ride_id": "278545404",
+      "vehicle_type": "SUV",
+      "distance_traveled": "28.1 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-05-27T17:55:21Z"
+    },
+    {
+      "ride_id": "298979937",
+      "vehicle_type": "Van",
+      "distance_traveled": "13.7 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-01-03T19:18:01Z"
+    },
+    {
+      "ride_id": "293559916",
+      "vehicle_type": "Van",
+      "distance_traveled": "14.8 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-11-30T12:52:19Z"
+    },
+    {
+      "ride_id": "585764057",
+      "vehicle_type": "SUV",
+      "distance_traveled": "18.1 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-11-08T10:38:59Z"
+    },
+    {
+      "ride_id": "208080344",
+      "vehicle_type": "SUV",
+      "distance_traveled": "19.3 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-05-26T03:28:56Z"
+    },
+    {
+      "ride_id": "212497455",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "22.7 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-11-05T19:47:24Z"
+    },
+    {
+      "ride_id": "105574126",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "12.3 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-01-15T05:32:15Z"
+    },
+    {
+      "ride_id": "151888920",
+      "vehicle_type": "SUV",
+      "distance_traveled": "5.3 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-06-06T12:47:01Z"
+    },
+    {
+      "ride_id": "117385643",
+      "vehicle_type": "Van",
+      "distance_traveled": "27.0 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-10-22T21:14:46Z"
+    },
+    {
+      "ride_id": "134139672",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "16.6 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-10-13T17:16:17Z"
+    },
+    {
+      "ride_id": "866073262",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "16.7 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-03-12T02:49:28Z"
+    },
+    {
+      "ride_id": "441318132",
+      "vehicle_type": "Van",
+      "distance_traveled": "26.3 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-11-16T15:51:36Z"
+    },
+    {
+      "ride_id": "290453967",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "5.1 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-04-08T13:47:34Z"
+    },
+    {
+      "ride_id": "546496026",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "12.4 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-11-26T14:26:23Z"
+    },
+    {
+      "ride_id": "809869762",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "8.9 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-09-09T17:57:34Z"
+    },
+    {
+      "ride_id": "511138626",
+      "vehicle_type": "SUV",
+      "distance_traveled": "11.9 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-08-17T16:03:18Z"
+    },
+    {
+      "ride_id": "542548624",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "16.2 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-04-30T11:11:51Z"
+    },
+    {
+      "ride_id": "179789956",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "7.8 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-02-19T11:25:21Z"
+    },
+    {
+      "ride_id": "233144459",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "29.4 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-03-01T04:34:20Z"
+    },
+    {
+      "ride_id": "107434893",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "26.0 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-01-21T01:47:04Z"
+    },
+    {
+      "ride_id": "356364146",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "18.0 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-12-29T09:41:31Z"
+    },
+    {
+      "ride_id": "241856784",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "20.4 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-04-21T03:40:46Z"
+    },
+    {
+      "ride_id": "339233519",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "16.4 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-04-23T06:21:57Z"
+    },
+    {
+      "ride_id": "473235022",
+      "vehicle_type": "Van",
+      "distance_traveled": "17.1 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-05-31T22:31:17Z"
+    },
+    {
+      "ride_id": "340278565",
+      "vehicle_type": "SUV",
+      "distance_traveled": "24.0 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-11-07T10:32:01Z"
+    },
+    {
+      "ride_id": "208081551",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.5 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-04-22T22:41:26Z"
+    },
+    {
+      "ride_id": "953691422",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "23.9 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-05-01T03:54:04Z"
+    },
+    {
+      "ride_id": "270661028",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "25.4 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-01-04T16:43:53Z"
+    },
+    {
+      "ride_id": "308491136",
+      "vehicle_type": "SUV",
+      "distance_traveled": "8.2 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-09-02T05:56:22Z"
+    },
+    {
+      "ride_id": "125518873",
+      "vehicle_type": "SUV",
+      "distance_traveled": "14.6 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-07-27T05:14:44Z"
+    },
+    {
+      "ride_id": "945076450",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.3 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-12-04T16:56:01Z"
+    },
+    {
+      "ride_id": "252890103",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "6.3 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-11-08T01:51:29Z"
+    },
+    {
+      "ride_id": "666063605",
+      "vehicle_type": "Van",
+      "distance_traveled": "9.0 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-05-11T23:35:45Z"
+    },
+    {
+      "ride_id": "359854660",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "13.4 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-08-11T10:26:29Z"
+    },
+    {
+      "ride_id": "266027188",
+      "vehicle_type": "SUV",
+      "distance_traveled": "17.1 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-07-03T15:37:25Z"
+    },
+    {
+      "ride_id": "139719651",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "26.8 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-01-12T02:22:05Z"
+    },
+    {
+      "ride_id": "121077804",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.6 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-09-02T01:10:16Z"
+    },
+    {
+      "ride_id": "236057729",
+      "vehicle_type": "Van",
+      "distance_traveled": "11.4 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-09-01T11:10:57Z"
+    },
+    {
+      "ride_id": "198938953",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "10.2 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-04-28T12:07:08Z"
+    },
+    {
+      "ride_id": "300238955",
+      "vehicle_type": "SUV",
+      "distance_traveled": "24.5 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-04-15T01:04:08Z"
+    },
+    {
+      "ride_id": "178333115",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.0 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-11-25T20:16:37Z"
+    },
+    {
+      "ride_id": "107015528",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "9.9 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-11-03T08:35:04Z"
+    },
+    {
+      "ride_id": "103948955",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "22.2 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-08-08T14:22:41Z"
+    },
+    {
+      "ride_id": "198026592",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "18.8 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-02-16T19:08:39Z"
+    },
+    {
+      "ride_id": "259550301",
+      "vehicle_type": "Van",
+      "distance_traveled": "12.3 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-09-05T17:37:01Z"
+    },
+    {
+      "ride_id": "259102336",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "23.3 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-06-29T01:52:32Z"
+    },
+    {
+      "ride_id": "146010948",
+      "vehicle_type": "Van",
+      "distance_traveled": "10.8 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-07-08T14:28:27Z"
+    },
+    {
+      "ride_id": "118060812",
+      "vehicle_type": "Van",
+      "distance_traveled": "15.0 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-09-06T10:18:53Z"
+    },
+    {
+      "ride_id": "412974210",
+      "vehicle_type": "Van",
+      "distance_traveled": "11.2 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-08-09T04:22:25Z"
+    },
+    {
+      "ride_id": "287436241",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "24.2 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-08-07T18:13:15Z"
+    },
+    {
+      "ride_id": "329098100",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "28.6 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-02-03T03:24:02Z"
+    },
+    {
+      "ride_id": "109529734",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "21.4 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-04-29T15:01:21Z"
+    },
+    {
+      "ride_id": "137731199",
+      "vehicle_type": "SUV",
+      "distance_traveled": "7.4 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-04-22T13:45:16Z"
+    },
+    {
+      "ride_id": "910270370",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "28.7 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-10-10T16:44:42Z"
+    },
+    {
+      "ride_id": "112591903",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "5.9 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-08-23T22:50:43Z"
+    },
+    {
+      "ride_id": "303781983",
+      "vehicle_type": "SUV",
+      "distance_traveled": "8.0 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-08-25T16:52:24Z"
+    },
+    {
+      "ride_id": "319340873",
+      "vehicle_type": "Van",
+      "distance_traveled": "25.4 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-12-22T22:33:59Z"
+    },
+    {
+      "ride_id": "321668020",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "28.0 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-05-13T15:39:33Z"
+    },
+    {
+      "ride_id": "205834928",
+      "vehicle_type": "Van",
+      "distance_traveled": "14.0 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-03-04T00:25:54Z"
+    },
+    {
+      "ride_id": "927560698",
+      "vehicle_type": "Van",
+      "distance_traveled": "12.7 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-01-10T22:20:22Z"
+    },
+    {
+      "ride_id": "321274949",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "9.7 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-04-11T12:48:25Z"
+    },
+    {
+      "ride_id": "206460680",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.6 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-03-23T11:15:25Z"
+    },
+    {
+      "ride_id": "224881215",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "10.4 km",
+      "ride_duration": "60 minutes",
+      "start_time": "2024-05-30T12:40:31Z"
+    },
+    {
+      "ride_id": "756201022",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "20.0 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-02-18T19:18:20Z"
+    },
+    {
+      "ride_id": "319681056",
+      "vehicle_type": "Van",
+      "distance_traveled": "27.0 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-04-04T08:06:01Z"
+    },
+    {
+      "ride_id": "115537904",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "20.0 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-01-19T08:47:09Z"
+    },
+    {
+      "ride_id": "105198391",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "14.3 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-02-23T17:33:10Z"
+    },
+    {
+      "ride_id": "259562310",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "23.9 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-07-18T04:40:55Z"
+    },
+    {
+      "ride_id": "279898645",
+      "vehicle_type": "SUV",
+      "distance_traveled": "8.0 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-11-07T05:06:21Z"
+    },
+    {
+      "ride_id": "261714688",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "8.0 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-11-06T00:38:03Z"
+    },
+    {
+      "ride_id": "131739612",
+      "vehicle_type": "Van",
+      "distance_traveled": "10.8 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-02-08T12:03:04Z"
+    },
+    {
+      "ride_id": "118768797",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "27.3 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-11-17T03:46:04Z"
+    },
+    {
+      "ride_id": "297887321",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "19.5 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-07-21T09:36:30Z"
+    },
+    {
+      "ride_id": "306993022",
+      "vehicle_type": "Van",
+      "distance_traveled": "27.2 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-04-01T05:21:58Z"
+    },
+    {
+      "ride_id": "102793045",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "29.0 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-02-11T10:11:38Z"
+    },
+    {
+      "ride_id": "208528182",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "27.6 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-06-16T22:34:01Z"
+    },
+    {
+      "ride_id": "314885434",
+      "vehicle_type": "Van",
+      "distance_traveled": "26.7 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-04-16T00:38:25Z"
+    },
+    {
+      "ride_id": "318682691",
+      "vehicle_type": "Van",
+      "distance_traveled": "5.9 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-10-13T08:13:43Z"
+    },
+    {
+      "ride_id": "335623915",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "24.6 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-04-09T19:38:13Z"
+    },
+    {
+      "ride_id": "199944871",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "20.0 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-09-05T05:31:03Z"
+    },
+    {
+      "ride_id": "109638969",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "25.9 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-01-12T12:45:19Z"
+    },
+    {
+      "ride_id": "233277719",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "16.9 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-01-10T14:34:13Z"
+    },
+    {
+      "ride_id": "303588131",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "12.0 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-12-12T23:09:43Z"
+    },
+    {
+      "ride_id": "215546216",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "15.6 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-09-05T10:51:26Z"
+    },
+    {
+      "ride_id": "192579410",
+      "vehicle_type": "SUV",
+      "distance_traveled": "16.7 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-09-23T16:35:10Z"
+    },
+    {
+      "ride_id": "205879613",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.5 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-08-05T05:28:53Z"
+    },
+    {
+      "ride_id": "296965029",
+      "vehicle_type": "SUV",
+      "distance_traveled": "20.1 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-12-12T07:40:07Z"
+    },
+    {
+      "ride_id": "276311537",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "29.5 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-09-26T19:03:21Z"
+    },
+    {
+      "ride_id": "246468138",
+      "vehicle_type": "Van",
+      "distance_traveled": "25.7 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-06-29T05:34:07Z"
+    },
+    {
+      "ride_id": "225471189",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "24.0 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-04-20T08:43:53Z"
+    },
+    {
+      "ride_id": "246146165",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "8.5 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-01-03T12:55:03Z"
+    },
+    {
+      "ride_id": "185206269",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "18.8 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-07-11T13:31:49Z"
+    },
+    {
+      "ride_id": "884388280",
+      "vehicle_type": "SUV",
+      "distance_traveled": "14.9 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-07-12T20:41:55Z"
+    },
+    {
+      "ride_id": "200275782",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "20.1 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-01-31T11:34:51Z"
+    },
+    {
+      "ride_id": "234669320",
+      "vehicle_type": "SUV",
+      "distance_traveled": "9.1 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-11-04T18:59:13Z"
+    },
+    {
+      "ride_id": "298107425",
+      "vehicle_type": "SUV",
+      "distance_traveled": "19.2 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-05-12T15:30:57Z"
+    },
+    {
+      "ride_id": "293257020",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "24.0 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-07-20T11:27:38Z"
+    },
+    {
+      "ride_id": "205223112",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "13.3 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-07-18T06:29:10Z"
+    },
+    {
+      "ride_id": "102578033",
+      "vehicle_type": "Van",
+      "distance_traveled": "17.3 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-12-25T14:02:32Z"
+    },
+    {
+      "ride_id": "273578234",
+      "vehicle_type": "SUV",
+      "distance_traveled": "12.8 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-12-28T20:12:26Z"
+    },
+    {
+      "ride_id": "249969922",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "8.4 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-07-22T18:49:33Z"
+    },
+    {
+      "ride_id": "818354865",
+      "vehicle_type": "SUV",
+      "distance_traveled": "22.7 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-10-21T15:34:09Z"
+    },
+    {
+      "ride_id": "217623105",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "20.6 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-06-09T17:59:37Z"
+    },
+    {
+      "ride_id": "222101306",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "25.7 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-03-26T10:01:58Z"
+    },
+    {
+      "ride_id": "328704936",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "23.9 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-05-12T00:10:36Z"
+    },
+    {
+      "ride_id": "339377457",
+      "vehicle_type": "Van",
+      "distance_traveled": "7.5 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-01-22T16:47:40Z"
+    },
+    {
+      "ride_id": "169329740",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "6.2 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-01-14T01:55:15Z"
+    },
+    {
+      "ride_id": "166165903",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "19.9 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-03-10T19:08:26Z"
+    },
+    {
+      "ride_id": "898006133",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "18.6 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-08-27T20:54:47Z"
+    },
+    {
+      "ride_id": "640455383",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "8.3 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-09-20T10:32:23Z"
+    },
+    {
+      "ride_id": "265824891",
+      "vehicle_type": "Van",
+      "distance_traveled": "25.4 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-06-22T21:04:09Z"
+    },
+    {
+      "ride_id": "288570419",
+      "vehicle_type": "Van",
+      "distance_traveled": "14.1 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-11-14T01:30:18Z"
+    },
+    {
+      "ride_id": "335023325",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "9.5 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-12-12T06:07:45Z"
+    },
+    {
+      "ride_id": "190369188",
+      "vehicle_type": "SUV",
+      "distance_traveled": "25.9 km",
+      "ride_duration": "60 minutes",
+      "start_time": "2024-10-10T03:17:51Z"
+    },
+    {
+      "ride_id": "205552838",
+      "vehicle_type": "SUV",
+      "distance_traveled": "15.8 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-05-07T18:08:05Z"
+    },
+    {
+      "ride_id": "276800727",
+      "vehicle_type": "Van",
+      "distance_traveled": "15.3 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-06-23T06:22:50Z"
+    },
+    {
+      "ride_id": "183924740",
+      "vehicle_type": "Van",
+      "distance_traveled": "22.5 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-09-17T07:27:49Z"
+    },
+    {
+      "ride_id": "154762772",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "13.4 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-01-19T19:31:13Z"
+    },
+    {
+      "ride_id": "138467372",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "21.5 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-02-11T04:14:25Z"
+    },
+    {
+      "ride_id": "289506621",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "21.8 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-12-14T03:22:06Z"
+    },
+    {
+      "ride_id": "121773835",
+      "vehicle_type": "SUV",
+      "distance_traveled": "16.3 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-10-14T05:18:13Z"
+    },
+    {
+      "ride_id": "234933835",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "28.1 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-12-23T23:20:21Z"
+    },
+    {
+      "ride_id": "336248218",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "12.1 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-03-14T03:19:35Z"
+    },
+    {
+      "ride_id": "154201524",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "17.4 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-01-13T09:55:52Z"
+    },
+    {
+      "ride_id": "150419667",
+      "vehicle_type": "Van",
+      "distance_traveled": "11.0 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-02-15T06:05:41Z"
+    },
+    {
+      "ride_id": "276392623",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.5 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-05-05T10:12:27Z"
+    },
+    {
+      "ride_id": "305748865",
+      "vehicle_type": "Van",
+      "distance_traveled": "18.2 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-03-13T17:34:40Z"
+    },
+    {
+      "ride_id": "117167406",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "7.7 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-09-02T05:25:29Z"
+    },
+    {
+      "ride_id": "325297873",
+      "vehicle_type": "SUV",
+      "distance_traveled": "26.3 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-06-18T16:45:41Z"
+    },
+    {
+      "ride_id": "327258743",
+      "vehicle_type": "SUV",
+      "distance_traveled": "24.7 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-09-23T15:28:02Z"
+    },
+    {
+      "ride_id": "312839760",
+      "vehicle_type": "SUV",
+      "distance_traveled": "14.4 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-10-10T03:17:31Z"
+    },
+    {
+      "ride_id": "197868923",
+      "vehicle_type": "Van",
+      "distance_traveled": "28.0 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-10-21T06:28:09Z"
+    },
+    {
+      "ride_id": "161640628",
+      "vehicle_type": "Van",
+      "distance_traveled": "28.1 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-04-21T15:48:01Z"
+    },
+    {
+      "ride_id": "158783972",
+      "vehicle_type": "SUV",
+      "distance_traveled": "6.4 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-08-28T14:50:06Z"
+    },
+    {
+      "ride_id": "627628982",
+      "vehicle_type": "Van",
+      "distance_traveled": "11.4 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-01-06T08:00:57Z"
+    },
+    {
+      "ride_id": "162796892",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "20.4 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-02-08T18:57:22Z"
+    },
+    {
+      "ride_id": "307483136",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.5 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-07-03T13:46:52Z"
+    },
+    {
+      "ride_id": "182076208",
+      "vehicle_type": "Van",
+      "distance_traveled": "5.1 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-01-02T06:25:23Z"
+    },
+    {
+      "ride_id": "239342809",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "21.6 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-05-01T11:27:59Z"
+    },
+    {
+      "ride_id": "166121850",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "10.8 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-04-11T03:29:01Z"
+    },
+    {
+      "ride_id": "902127744",
+      "vehicle_type": "SUV",
+      "distance_traveled": "29.6 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-06-01T09:31:56Z"
+    },
+    {
+      "ride_id": "232256789",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "29.9 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-03-05T17:02:48Z"
+    },
+    {
+      "ride_id": "134145499",
+      "vehicle_type": "Van",
+      "distance_traveled": "29.1 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-03-02T17:53:59Z"
+    },
+    {
+      "ride_id": "303873678",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "22.4 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-09-25T14:35:53Z"
+    },
+    {
+      "ride_id": "332850834",
+      "vehicle_type": "SUV",
+      "distance_traveled": "8.0 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-09-06T07:15:46Z"
+    },
+    {
+      "ride_id": "235061855",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "12.8 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-10-04T18:29:39Z"
+    },
+    {
+      "ride_id": "149687021",
+      "vehicle_type": "SUV",
+      "distance_traveled": "20.7 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-03-31T20:53:51Z"
+    },
+    {
+      "ride_id": "234388237",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "7.0 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-01-31T11:34:52Z"
+    },
+    {
+      "ride_id": "314018019",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "20.4 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-02-20T01:40:35Z"
+    },
+    {
+      "ride_id": "103556011",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "29.6 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-11-09T17:06:47Z"
+    },
+    {
+      "ride_id": "793754662",
+      "vehicle_type": "SUV",
+      "distance_traveled": "11.9 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-06-22T06:00:42Z"
+    },
+    {
+      "ride_id": "285158121",
+      "vehicle_type": "Van",
+      "distance_traveled": "29.7 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-03-03T04:01:04Z"
+    },
+    {
+      "ride_id": "744378545",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "10.4 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-12-06T08:32:23Z"
+    },
+    {
+      "ride_id": "220200840",
+      "vehicle_type": "Van",
+      "distance_traveled": "14.3 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-06-01T11:53:49Z"
+    },
+    {
+      "ride_id": "124066913",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "19.6 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-02-15T07:16:48Z"
+    },
+    {
+      "ride_id": "989694889",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "25.2 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-01-28T15:58:27Z"
+    },
+    {
+      "ride_id": "130426145",
+      "vehicle_type": "SUV",
+      "distance_traveled": "12.8 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-10-22T00:27:03Z"
+    },
+    {
+      "ride_id": "143941113",
+      "vehicle_type": "Van",
+      "distance_traveled": "28.1 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-05-04T01:23:06Z"
+    },
+    {
+      "ride_id": "213005081",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "14.9 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-02-22T13:24:00Z"
+    },
+    {
+      "ride_id": "119357483",
+      "vehicle_type": "SUV",
+      "distance_traveled": "20.8 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-04-16T11:58:07Z"
+    },
+    {
+      "ride_id": "172105352",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "7.2 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-07-29T05:43:19Z"
+    },
+    {
+      "ride_id": "197046023",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "15.2 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-05-13T17:24:01Z"
+    },
+    {
+      "ride_id": "184385903",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "25.7 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-01-20T08:47:38Z"
+    },
+    {
+      "ride_id": "172051274",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "9.8 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-09-15T17:50:10Z"
+    },
+    {
+      "ride_id": "559633018",
+      "vehicle_type": "SUV",
+      "distance_traveled": "8.9 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-02-16T08:14:34Z"
+    },
+    {
+      "ride_id": "284178474",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "20.3 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-01-03T13:46:24Z"
+    },
+    {
+      "ride_id": "165613968",
+      "vehicle_type": "Van",
+      "distance_traveled": "8.3 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-10-25T07:50:37Z"
+    },
+    {
+      "ride_id": "184418006",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "5.0 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-05-20T08:37:52Z"
+    },
+    {
+      "ride_id": "300218499",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "7.8 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-06-15T12:29:07Z"
+    },
+    {
+      "ride_id": "330319979",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "6.5 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-10-17T04:29:17Z"
+    },
+    {
+      "ride_id": "765250088",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "29.0 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-10-07T11:17:39Z"
+    },
+    {
+      "ride_id": "279306445",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "29.5 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-03-15T13:23:54Z"
+    },
+    {
+      "ride_id": "136623332",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "16.7 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-08-09T07:34:59Z"
+    },
+    {
+      "ride_id": "190861148",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "17.9 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-07-23T12:35:06Z"
+    },
+    {
+      "ride_id": "576509761",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "23.2 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-01-29T08:50:36Z"
+    },
+    {
+      "ride_id": "153654240",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "23.4 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-12-29T05:02:23Z"
+    },
+    {
+      "ride_id": "334719135",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "24.5 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-05-09T13:16:31Z"
+    },
+    {
+      "ride_id": "245492570",
+      "vehicle_type": "SUV",
+      "distance_traveled": "17.2 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-10-16T10:47:09Z"
+    },
+    {
+      "ride_id": "621893406",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "16.4 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-02-25T15:00:48Z"
+    },
+    {
+      "ride_id": "148538082",
+      "vehicle_type": "SUV",
+      "distance_traveled": "25.4 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-05-22T10:37:41Z"
+    },
+    {
+      "ride_id": "174050347",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "9.7 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-10-06T11:01:42Z"
+    },
+    {
+      "ride_id": "229831376",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "26.7 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-10-12T12:52:48Z"
+    },
+    {
+      "ride_id": "335934912",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "27.4 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-08-20T20:43:34Z"
+    },
+    {
+      "ride_id": "164180663",
+      "vehicle_type": "Van",
+      "distance_traveled": "5.9 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-02-25T09:36:48Z"
+    },
+    {
+      "ride_id": "235854850",
+      "vehicle_type": "SUV",
+      "distance_traveled": "19.4 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-06-11T08:16:12Z"
+    },
+    {
+      "ride_id": "129288002",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "24.3 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-01-14T00:44:49Z"
+    },
+    {
+      "ride_id": "326794955",
+      "vehicle_type": "SUV",
+      "distance_traveled": "22.3 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-11-15T13:14:31Z"
+    },
+    {
+      "ride_id": "130875992",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "22.7 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-09-10T19:08:00Z"
+    },
+    {
+      "ride_id": "130838160",
+      "vehicle_type": "Van",
+      "distance_traveled": "25.9 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-05-28T20:30:24Z"
+    },
+    {
+      "ride_id": "613404114",
+      "vehicle_type": "Van",
+      "distance_traveled": "6.8 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-12-02T11:23:52Z"
+    },
+    {
+      "ride_id": "141766999",
+      "vehicle_type": "SUV",
+      "distance_traveled": "10.5 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-11-06T06:35:29Z"
+    },
+    {
+      "ride_id": "750147234",
+      "vehicle_type": "Van",
+      "distance_traveled": "6.7 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-07-17T15:51:12Z"
+    },
+    {
+      "ride_id": "132897510",
+      "vehicle_type": "Van",
+      "distance_traveled": "16.7 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-10-10T14:01:51Z"
+    },
+    {
+      "ride_id": "107636002",
+      "vehicle_type": "Van",
+      "distance_traveled": "16.5 km",
+      "ride_duration": "12 minutes",
+      "start_time": "2024-11-07T00:20:44Z"
+    },
+    {
+      "ride_id": "384664652",
+      "vehicle_type": "SUV",
+      "distance_traveled": "14.5 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-01-20T23:15:18Z"
+    },
+    {
+      "ride_id": "264767436",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.6 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-07-31T22:37:33Z"
+    },
+    {
+      "ride_id": "247965340",
+      "vehicle_type": "Van",
+      "distance_traveled": "8.3 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-09-14T01:37:09Z"
+    },
+    {
+      "ride_id": "223729928",
+      "vehicle_type": "Van",
+      "distance_traveled": "8.1 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-02-18T12:56:58Z"
+    },
+    {
+      "ride_id": "101048853",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "16.6 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-11-22T16:03:59Z"
+    },
+    {
+      "ride_id": "212442846",
+      "vehicle_type": "Van",
+      "distance_traveled": "22.0 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-05-17T23:42:03Z"
+    },
+    {
+      "ride_id": "180506020",
+      "vehicle_type": "SUV",
+      "distance_traveled": "27.1 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-12-03T02:11:37Z"
+    },
+    {
+      "ride_id": "537628026",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "20.6 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-08-17T09:00:36Z"
+    },
+    {
+      "ride_id": "207113266",
+      "vehicle_type": "SUV",
+      "distance_traveled": "8.0 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-11-23T13:20:49Z"
+    },
+    {
+      "ride_id": "389796751",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "9.0 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-12-13T14:03:42Z"
+    },
+    {
+      "ride_id": "875362289",
+      "vehicle_type": "Van",
+      "distance_traveled": "17.7 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-12-27T11:44:56Z"
+    },
+    {
+      "ride_id": "337867050",
+      "vehicle_type": "Van",
+      "distance_traveled": "23.7 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-04-22T02:27:20Z"
+    },
+    {
+      "ride_id": "249356378",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "17.9 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-01-30T02:31:52Z"
+    },
+    {
+      "ride_id": "209053425",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "26.9 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-12-24T01:24:44Z"
+    },
+    {
+      "ride_id": "103975674",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "6.9 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-10-05T02:07:06Z"
+    },
+    {
+      "ride_id": "101988020",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "12.4 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-04-01T22:16:49Z"
+    },
+    {
+      "ride_id": "315291888",
+      "vehicle_type": "SUV",
+      "distance_traveled": "14.4 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-03-06T06:41:59Z"
+    },
+    {
+      "ride_id": "227862487",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "26.3 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-02-24T12:39:51Z"
+    },
+    {
+      "ride_id": "318318924",
+      "vehicle_type": "SUV",
+      "distance_traveled": "6.4 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-07-01T12:52:20Z"
+    },
+    {
+      "ride_id": "247852072",
+      "vehicle_type": "SUV",
+      "distance_traveled": "11.6 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-07-20T19:13:18Z"
+    },
+    {
+      "ride_id": "312562249",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "23.2 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-01-17T15:18:31Z"
+    },
+    {
+      "ride_id": "570085321",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "22.9 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-08-21T07:24:59Z"
+    },
+    {
+      "ride_id": "355731354",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "7.5 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-07-19T11:54:02Z"
+    },
+    {
+      "ride_id": "194136374",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "10.9 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-06-24T09:55:22Z"
+    },
+    {
+      "ride_id": "116793559",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "27.5 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-08-31T12:54:56Z"
+    },
+    {
+      "ride_id": "975580875",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.6 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-03-07T23:48:29Z"
+    },
+    {
+      "ride_id": "868823449",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "18.9 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-02-27T03:55:30Z"
+    },
+    {
+      "ride_id": "196815502",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "19.9 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-07-20T02:07:49Z"
+    },
+    {
+      "ride_id": "105274127",
+      "vehicle_type": "Van",
+      "distance_traveled": "5.3 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-11-14T15:47:17Z"
+    },
+    {
+      "ride_id": "224361474",
+      "vehicle_type": "Van",
+      "distance_traveled": "16.7 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-01-16T08:10:20Z"
+    },
+    {
+      "ride_id": "254541027",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "13.6 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-02-18T21:12:34Z"
+    },
+    {
+      "ride_id": "895098966",
+      "vehicle_type": "Van",
+      "distance_traveled": "11.5 km",
+      "ride_duration": "60 minutes",
+      "start_time": "2024-09-13T02:14:15Z"
+    },
+    {
+      "ride_id": "253456371",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "10.4 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-01-29T05:48:03Z"
+    },
+    {
+      "ride_id": "192175475",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "28.6 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-03-19T11:48:28Z"
+    },
+    {
+      "ride_id": "116990939",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "15.8 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-08-29T10:47:13Z"
+    },
+    {
+      "ride_id": "870743251",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "13.8 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-11-11T18:35:48Z"
+    },
+    {
+      "ride_id": "489369606",
+      "vehicle_type": "Van",
+      "distance_traveled": "10.4 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-11-21T09:07:05Z"
+    },
+    {
+      "ride_id": "294768650",
+      "vehicle_type": "SUV",
+      "distance_traveled": "14.4 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-07-18T08:05:49Z"
+    },
+    {
+      "ride_id": "120874616",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "16.4 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-10-11T09:07:53Z"
+    },
+    {
+      "ride_id": "177909291",
+      "vehicle_type": "Van",
+      "distance_traveled": "22.3 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-01-24T12:29:54Z"
+    },
+    {
+      "ride_id": "846743889",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "18.0 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-10-22T04:59:56Z"
+    },
+    {
+      "ride_id": "560551079",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "7.3 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-12-17T12:52:24Z"
+    },
+    {
+      "ride_id": "206669028",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "24.0 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-05-24T23:54:12Z"
+    },
+    {
+      "ride_id": "300174909",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "6.6 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-07-21T05:45:17Z"
+    },
+    {
+      "ride_id": "280869535",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "12.2 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-10-07T09:19:02Z"
+    },
+    {
+      "ride_id": "152655205",
+      "vehicle_type": "Van",
+      "distance_traveled": "22.5 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-12-25T21:53:26Z"
+    },
+    {
+      "ride_id": "176968329",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "22.2 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-06-14T20:33:30Z"
+    },
+    {
+      "ride_id": "143281474",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "28.7 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-01-05T23:30:51Z"
+    },
+    {
+      "ride_id": "138467964",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "27.9 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-10-14T06:50:21Z"
+    },
+    {
+      "ride_id": "991606150",
+      "vehicle_type": "Van",
+      "distance_traveled": "28.7 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-03-08T16:12:29Z"
+    },
+    {
+      "ride_id": "211771210",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "16.5 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-11-14T01:16:45Z"
+    },
+    {
+      "ride_id": "463218325",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.6 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-07-15T08:27:58Z"
+    },
+    {
+      "ride_id": "324110151",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.4 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-07-22T23:48:04Z"
+    },
+    {
+      "ride_id": "249665288",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "20.4 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-08-28T16:12:48Z"
+    },
+    {
+      "ride_id": "284305739",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "5.5 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-12-02T22:41:36Z"
+    },
+    {
+      "ride_id": "329326163",
+      "vehicle_type": "SUV",
+      "distance_traveled": "25.4 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-09-11T05:40:41Z"
+    },
+    {
+      "ride_id": "122193086",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "7.7 km",
+      "ride_duration": "12 minutes",
+      "start_time": "2024-09-10T16:19:58Z"
+    },
+    {
+      "ride_id": "272738254",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "5.9 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-11-06T23:35:53Z"
+    },
+    {
+      "ride_id": "211568060",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "13.1 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-07-13T14:27:14Z"
+    },
+    {
+      "ride_id": "333673557",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "12.8 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-04-27T01:34:58Z"
+    },
+    {
+      "ride_id": "184651959",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "27.8 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-12-05T20:44:58Z"
+    },
+    {
+      "ride_id": "307281451",
+      "vehicle_type": "SUV",
+      "distance_traveled": "25.4 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-02-20T05:03:40Z"
+    },
+    {
+      "ride_id": "255964256",
+      "vehicle_type": "SUV",
+      "distance_traveled": "19.4 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-05-05T17:01:02Z"
+    },
+    {
+      "ride_id": "192731619",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "9.5 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-03-25T22:34:09Z"
+    },
+    {
+      "ride_id": "203378053",
+      "vehicle_type": "Van",
+      "distance_traveled": "25.4 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-03-10T17:11:50Z"
+    },
+    {
+      "ride_id": "173150636",
+      "vehicle_type": "SUV",
+      "distance_traveled": "20.3 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-01-14T10:11:52Z"
+    },
+    {
+      "ride_id": "167943763",
+      "vehicle_type": "Van",
+      "distance_traveled": "27.8 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-12-06T12:57:36Z"
+    },
+    {
+      "ride_id": "264208207",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "13.0 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-03-10T12:18:05Z"
+    },
+    {
+      "ride_id": "507834628",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.1 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-07-07T01:58:48Z"
+    },
+    {
+      "ride_id": "111109093",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "27.5 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-03-11T23:07:08Z"
+    },
+    {
+      "ride_id": "154054344",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "12.2 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-07-07T06:42:15Z"
+    },
+    {
+      "ride_id": "914942317",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "13.1 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-08-23T20:53:20Z"
+    },
+    {
+      "ride_id": "886391756",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "24.9 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-04-09T13:43:20Z"
+    },
+    {
+      "ride_id": "495821762",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "20.8 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-10-10T15:36:36Z"
+    },
+    {
+      "ride_id": "175199092",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "9.1 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-01-26T10:54:00Z"
+    },
+    {
+      "ride_id": "248426266",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "24.5 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-04-23T21:53:54Z"
+    },
+    {
+      "ride_id": "207804497",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.4 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-09-29T05:14:05Z"
+    },
+    {
+      "ride_id": "164958927",
+      "vehicle_type": "Van",
+      "distance_traveled": "26.9 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-01-20T01:05:41Z"
+    },
+    {
+      "ride_id": "285766614",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "24.7 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-01-08T06:15:12Z"
+    },
+    {
+      "ride_id": "259390548",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "26.3 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-12-19T17:31:03Z"
+    },
+    {
+      "ride_id": "127638818",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "7.3 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-09-01T23:23:45Z"
+    },
+    {
+      "ride_id": "197735637",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.6 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-09-19T07:35:27Z"
+    },
+    {
+      "ride_id": "191191211",
+      "vehicle_type": "Van",
+      "distance_traveled": "19.2 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-06-21T16:37:58Z"
+    },
+    {
+      "ride_id": "148317612",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "13.4 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-04-18T12:45:57Z"
+    },
+    {
+      "ride_id": "240062558",
+      "vehicle_type": "Van",
+      "distance_traveled": "27.8 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-04-06T19:15:31Z"
+    },
+    {
+      "ride_id": "851107544",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "17.5 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-09-06T12:06:35Z"
+    },
+    {
+      "ride_id": "166948418",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "22.8 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-07-21T01:19:36Z"
+    },
+    {
+      "ride_id": "337736676",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "11.7 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-12-17T10:09:23Z"
+    },
+    {
+      "ride_id": "512257206",
+      "vehicle_type": "SUV",
+      "distance_traveled": "16.1 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-01-22T14:55:48Z"
+    },
+    {
+      "ride_id": "287005252",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "9.5 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-08-19T05:52:48Z"
+    },
+    {
+      "ride_id": "302774455",
+      "vehicle_type": "SUV",
+      "distance_traveled": "22.9 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-05-22T08:47:03Z"
+    },
+    {
+      "ride_id": "100629744",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "7.3 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-03-20T15:14:56Z"
+    },
+    {
+      "ride_id": "240544639",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "11.9 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-01-07T16:14:43Z"
+    },
+    {
+      "ride_id": "410721371",
+      "vehicle_type": "SUV",
+      "distance_traveled": "17.8 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-12-22T00:27:58Z"
+    },
+    {
+      "ride_id": "164886923",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "24.6 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-12-20T05:47:17Z"
+    },
+    {
+      "ride_id": "166789041",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "26.3 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-10-12T13:23:55Z"
+    },
+    {
+      "ride_id": "217831418",
+      "vehicle_type": "Van",
+      "distance_traveled": "5.7 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-06-21T16:06:56Z"
+    },
+    {
+      "ride_id": "122605528",
+      "vehicle_type": "SUV",
+      "distance_traveled": "26.3 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-07-25T18:31:12Z"
+    },
+    {
+      "ride_id": "172571629",
+      "vehicle_type": "Van",
+      "distance_traveled": "15.7 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-11-09T03:47:05Z"
+    },
+    {
+      "ride_id": "265330911",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "21.9 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-01-04T22:34:54Z"
+    },
+    {
+      "ride_id": "312362151",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.6 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-10-20T18:53:55Z"
+    },
+    {
+      "ride_id": "312791781",
+      "vehicle_type": "Van",
+      "distance_traveled": "17.2 km",
+      "ride_duration": "60 minutes",
+      "start_time": "2024-03-28T04:37:54Z"
+    },
+    {
+      "ride_id": "233637095",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "23.0 km",
+      "ride_duration": "60 minutes",
+      "start_time": "2024-08-09T23:25:08Z"
+    },
+    {
+      "ride_id": "271755298",
+      "vehicle_type": "Van",
+      "distance_traveled": "6.0 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-04-08T21:36:13Z"
+    },
+    {
+      "ride_id": "398909249",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "21.9 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-12-08T05:21:54Z"
+    },
+    {
+      "ride_id": "467528309",
+      "vehicle_type": "SUV",
+      "distance_traveled": "22.1 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-07-06T23:40:47Z"
+    },
+    {
+      "ride_id": "336526349",
+      "vehicle_type": "SUV",
+      "distance_traveled": "24.2 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-11-02T10:31:48Z"
+    },
+    {
+      "ride_id": "127269174",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "16.4 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-10-10T01:13:17Z"
+    },
+    {
+      "ride_id": "239432539",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "12.0 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-09-04T06:25:23Z"
+    },
+    {
+      "ride_id": "323417482",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "7.9 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-05-23T19:02:23Z"
+    },
+    {
+      "ride_id": "283356257",
+      "vehicle_type": "Van",
+      "distance_traveled": "9.2 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-04-14T16:23:15Z"
+    },
+    {
+      "ride_id": "323871227",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "29.7 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-12-02T00:16:50Z"
+    },
+    {
+      "ride_id": "586188319",
+      "vehicle_type": "Van",
+      "distance_traveled": "14.1 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-06-24T03:52:09Z"
+    },
+    {
+      "ride_id": "175030810",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "18.6 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-04-30T03:28:30Z"
+    },
+    {
+      "ride_id": "313917437",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "27.1 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-07-07T23:45:12Z"
+    },
+    {
+      "ride_id": "317752897",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "25.3 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-11-29T20:05:09Z"
+    },
+    {
+      "ride_id": "124199985",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "29.0 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-10-16T17:49:39Z"
+    },
+    {
+      "ride_id": "294456919",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "14.7 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-04-05T16:44:04Z"
+    },
+    {
+      "ride_id": "126758051",
+      "vehicle_type": "SUV",
+      "distance_traveled": "27.9 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-12-13T16:55:49Z"
+    },
+    {
+      "ride_id": "623904464",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "17.4 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-01-13T18:10:33Z"
+    },
+    {
+      "ride_id": "320112247",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "12.3 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-09-30T08:34:45Z"
+    },
+    {
+      "ride_id": "203978362",
+      "vehicle_type": "SUV",
+      "distance_traveled": "28.5 km",
+      "ride_duration": "12 minutes",
+      "start_time": "2024-04-21T07:49:03Z"
+    },
+    {
+      "ride_id": "443018403",
+      "vehicle_type": "Van",
+      "distance_traveled": "23.1 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-09-11T18:53:30Z"
+    },
+    {
+      "ride_id": "215893984",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "28.1 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-05-06T17:49:05Z"
+    },
+    {
+      "ride_id": "881904834",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "20.6 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-10-24T08:08:10Z"
+    },
+    {
+      "ride_id": "244896918",
+      "vehicle_type": "SUV",
+      "distance_traveled": "11.6 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-01-24T06:17:16Z"
+    },
+    {
+      "ride_id": "105952527",
+      "vehicle_type": "SUV",
+      "distance_traveled": "23.4 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-06-18T18:05:42Z"
+    },
+    {
+      "ride_id": "996686500",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "19.2 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-06-26T05:08:44Z"
+    },
+    {
+      "ride_id": "281900058",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "8.0 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-10-14T13:04:23Z"
+    },
+    {
+      "ride_id": "286918453",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "5.6 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-01-25T23:26:32Z"
+    },
+    {
+      "ride_id": "260826330",
+      "vehicle_type": "SUV",
+      "distance_traveled": "21.9 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-07-28T22:57:38Z"
+    },
+    {
+      "ride_id": "275367142",
+      "vehicle_type": "Van",
+      "distance_traveled": "28.0 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-07-27T14:35:58Z"
+    },
+    {
+      "ride_id": "125500076",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "10.8 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-07-23T00:21:48Z"
+    },
+    {
+      "ride_id": "218391060",
+      "vehicle_type": "SUV",
+      "distance_traveled": "26.3 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-08-31T13:30:39Z"
+    },
+    {
+      "ride_id": "879354936",
+      "vehicle_type": "SUV",
+      "distance_traveled": "26.0 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-02-26T02:00:00Z"
+    },
+    {
+      "ride_id": "258322984",
+      "vehicle_type": "SUV",
+      "distance_traveled": "21.6 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-03-31T17:36:40Z"
+    },
+    {
+      "ride_id": "189203440",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "20.2 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-08-08T06:35:17Z"
+    },
+    {
+      "ride_id": "276292761",
+      "vehicle_type": "Van",
+      "distance_traveled": "24.9 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-10-01T08:40:31Z"
+    },
+    {
+      "ride_id": "328592874",
+      "vehicle_type": "Van",
+      "distance_traveled": "19.6 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-05-23T15:43:30Z"
+    },
+    {
+      "ride_id": "113665743",
+      "vehicle_type": "SUV",
+      "distance_traveled": "12.5 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-03-09T02:08:25Z"
+    },
+    {
+      "ride_id": "145436280",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "19.2 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-05-16T12:06:54Z"
+    },
+    {
+      "ride_id": "933896342",
+      "vehicle_type": "Van",
+      "distance_traveled": "13.1 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-01-22T17:41:20Z"
+    },
+    {
+      "ride_id": "527737903",
+      "vehicle_type": "SUV",
+      "distance_traveled": "9.3 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-03-26T06:46:38Z"
+    },
+    {
+      "ride_id": "172730512",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "24.8 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-11-14T09:13:26Z"
+    },
+    {
+      "ride_id": "154219620",
+      "vehicle_type": "SUV",
+      "distance_traveled": "14.0 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-08-07T08:06:24Z"
+    },
+    {
+      "ride_id": "261227348",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "11.1 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-08-29T15:32:22Z"
+    },
+    {
+      "ride_id": "149360196",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "20.1 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-02-06T09:08:29Z"
+    },
+    {
+      "ride_id": "339259025",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.8 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-11-20T10:19:38Z"
+    },
+    {
+      "ride_id": "290462073",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "9.2 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-07-31T23:41:39Z"
+    },
+    {
+      "ride_id": "801579994",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "13.9 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-08-24T20:53:20Z"
+    },
+    {
+      "ride_id": "904364826",
+      "vehicle_type": "Van",
+      "distance_traveled": "19.3 km",
+      "ride_duration": "12 minutes",
+      "start_time": "2024-10-15T04:09:35Z"
+    },
+    {
+      "ride_id": "157665935",
+      "vehicle_type": "SUV",
+      "distance_traveled": "7.6 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-09-05T18:59:23Z"
+    },
+    {
+      "ride_id": "725406882",
+      "vehicle_type": "Van",
+      "distance_traveled": "5.2 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-06-11T06:59:19Z"
+    },
+    {
+      "ride_id": "314540544",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "24.3 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-05-11T14:11:24Z"
+    },
+    {
+      "ride_id": "544195274",
+      "vehicle_type": "SUV",
+      "distance_traveled": "27.1 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-07-02T15:50:26Z"
+    },
+    {
+      "ride_id": "124788818",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.0 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-08-12T05:02:52Z"
+    },
+    {
+      "ride_id": "300772799",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "29.2 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-07-14T05:28:00Z"
+    },
+    {
+      "ride_id": "211835928",
+      "vehicle_type": "Van",
+      "distance_traveled": "6.2 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-10-29T06:53:40Z"
+    },
+    {
+      "ride_id": "211076191",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "6.9 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-12-10T17:08:25Z"
+    },
+    {
+      "ride_id": "149185427",
+      "vehicle_type": "Van",
+      "distance_traveled": "10.7 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-10-19T05:07:45Z"
+    },
+    {
+      "ride_id": "110721298",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "24.0 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-03-04T08:51:47Z"
+    },
+    {
+      "ride_id": "253943967",
+      "vehicle_type": "SUV",
+      "distance_traveled": "20.4 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-02-26T00:34:48Z"
+    },
+    {
+      "ride_id": "158237188",
+      "vehicle_type": "Van",
+      "distance_traveled": "8.0 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-02-20T11:58:36Z"
+    },
+    {
+      "ride_id": "120259205",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "18.2 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-10-18T20:22:35Z"
+    },
+    {
+      "ride_id": "250603261",
+      "vehicle_type": "SUV",
+      "distance_traveled": "15.5 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-02-19T09:27:55Z"
+    },
+    {
+      "ride_id": "230148393",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "23.4 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-12-15T15:06:21Z"
+    },
+    {
+      "ride_id": "100454955",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "26.7 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-01-30T07:33:41Z"
+    },
+    {
+      "ride_id": "217422002",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "16.2 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-02-10T23:52:05Z"
+    },
+    {
+      "ride_id": "181658194",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "14.6 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-03-04T02:13:48Z"
+    },
+    {
+      "ride_id": "208338929",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "22.5 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-11-24T15:17:12Z"
+    },
+    {
+      "ride_id": "279937278",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "21.3 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-06-18T17:24:40Z"
+    },
+    {
+      "ride_id": "248045726",
+      "vehicle_type": "Van",
+      "distance_traveled": "17.9 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-02-09T06:09:08Z"
+    },
+    {
+      "ride_id": "270031283",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "27.1 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-08-27T21:26:22Z"
+    },
+    {
+      "ride_id": "201367049",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "24.0 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-07-16T08:10:10Z"
+    },
+    {
+      "ride_id": "102828391",
+      "vehicle_type": "SUV",
+      "distance_traveled": "11.2 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-07-24T08:55:48Z"
+    },
+    {
+      "ride_id": "232290110",
+      "vehicle_type": "Van",
+      "distance_traveled": "29.1 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-12-02T13:49:11Z"
+    },
+    {
+      "ride_id": "917627301",
+      "vehicle_type": "SUV",
+      "distance_traveled": "19.5 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-02-08T13:28:14Z"
+    },
+    {
+      "ride_id": "218804278",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "6.8 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-12-03T12:32:57Z"
+    },
+    {
+      "ride_id": "511730803",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "18.1 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-04-02T08:45:30Z"
+    },
+    {
+      "ride_id": "177053189",
+      "vehicle_type": "SUV",
+      "distance_traveled": "24.9 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-12-07T03:10:36Z"
+    },
+    {
+      "ride_id": "196409122",
+      "vehicle_type": "SUV",
+      "distance_traveled": "23.2 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-10-14T23:42:53Z"
+    },
+    {
+      "ride_id": "330209328",
+      "vehicle_type": "SUV",
+      "distance_traveled": "12.3 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-06-10T05:28:42Z"
+    },
+    {
+      "ride_id": "181943363",
+      "vehicle_type": "Van",
+      "distance_traveled": "26.2 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-08-28T21:49:43Z"
+    },
+    {
+      "ride_id": "123262558",
+      "vehicle_type": "Van",
+      "distance_traveled": "23.6 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-09-04T10:19:23Z"
+    },
+    {
+      "ride_id": "122925554",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "19.9 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-07-18T13:58:55Z"
+    },
+    {
+      "ride_id": "116656245",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "20.2 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-08-09T07:21:42Z"
+    },
+    {
+      "ride_id": "142799902",
+      "vehicle_type": "SUV",
+      "distance_traveled": "8.4 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-09-15T14:15:01Z"
+    },
+    {
+      "ride_id": "962788772",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "12.1 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-08-26T20:12:28Z"
+    },
+    {
+      "ride_id": "146687927",
+      "vehicle_type": "SUV",
+      "distance_traveled": "21.2 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-03-14T10:18:27Z"
+    },
+    {
+      "ride_id": "354981554",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "7.7 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-07-19T21:59:50Z"
+    },
+    {
+      "ride_id": "223366372",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "16.3 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-07-09T18:02:07Z"
+    },
+    {
+      "ride_id": "158514917",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "9.2 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-12-16T08:52:12Z"
+    },
+    {
+      "ride_id": "114377571",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "17.3 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-07-25T14:44:31Z"
+    },
+    {
+      "ride_id": "211910206",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "25.0 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-10-03T11:31:41Z"
+    },
+    {
+      "ride_id": "190668665",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "8.2 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-06-22T22:39:26Z"
+    },
+    {
+      "ride_id": "335330548",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "24.9 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-01-10T00:21:17Z"
+    },
+    {
+      "ride_id": "100157671",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "25.8 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-01-11T17:10:29Z"
+    },
+    {
+      "ride_id": "273966695",
+      "vehicle_type": "SUV",
+      "distance_traveled": "26.5 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-01-24T00:56:46Z"
+    },
+    {
+      "ride_id": "220983986",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "25.7 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-09-14T09:45:07Z"
+    },
+    {
+      "ride_id": "221433709",
+      "vehicle_type": "SUV",
+      "distance_traveled": "15.4 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-11-26T09:47:53Z"
+    },
+    {
+      "ride_id": "218273835",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "5.3 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-04-02T20:26:55Z"
+    },
+    {
+      "ride_id": "184310107",
+      "vehicle_type": "SUV",
+      "distance_traveled": "25.1 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-07-02T11:41:27Z"
+    },
+    {
+      "ride_id": "284884390",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.5 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-01-10T00:34:01Z"
+    },
+    {
+      "ride_id": "244377433",
+      "vehicle_type": "SUV",
+      "distance_traveled": "14.2 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-04-27T20:48:20Z"
+    },
+    {
+      "ride_id": "133751925",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "28.0 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-01-15T16:46:18Z"
+    },
+    {
+      "ride_id": "714731226",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "10.6 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-11-07T01:30:45Z"
+    },
+    {
+      "ride_id": "168284202",
+      "vehicle_type": "SUV",
+      "distance_traveled": "26.1 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-11-03T16:22:23Z"
+    },
+    {
+      "ride_id": "145399997",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "18.5 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-03-08T21:58:19Z"
+    },
+    {
+      "ride_id": "711338255",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "5.5 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-01-02T18:17:19Z"
+    },
+    {
+      "ride_id": "218059360",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "12.4 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-07-24T06:21:46Z"
+    },
+    {
+      "ride_id": "248456140",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "16.7 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-08-02T06:09:20Z"
+    },
+    {
+      "ride_id": "205085448",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.2 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-06-28T08:32:36Z"
+    },
+    {
+      "ride_id": "190759538",
+      "vehicle_type": "Van",
+      "distance_traveled": "27.9 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-09-07T13:07:59Z"
+    },
+    {
+      "ride_id": "237093329",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "26.3 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-07-29T12:14:09Z"
+    },
+    {
+      "ride_id": "124695799",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "12.3 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-04-24T05:49:24Z"
+    },
+    {
+      "ride_id": "209012558",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "8.6 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-10-29T19:02:33Z"
+    },
+    {
+      "ride_id": "176704484",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "19.1 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-04-22T13:15:27Z"
+    },
+    {
+      "ride_id": "935415214",
+      "vehicle_type": "SUV",
+      "distance_traveled": "5.5 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-03-22T10:32:26Z"
+    },
+    {
+      "ride_id": "154340739",
+      "vehicle_type": "SUV",
+      "distance_traveled": "29.7 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-11-26T20:14:10Z"
+    },
+    {
+      "ride_id": "227440110",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "23.4 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-01-08T11:50:53Z"
+    },
+    {
+      "ride_id": "110122178",
+      "vehicle_type": "Van",
+      "distance_traveled": "23.6 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-09-29T12:59:55Z"
+    },
+    {
+      "ride_id": "277115531",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "24.3 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-09-17T09:56:02Z"
+    },
+    {
+      "ride_id": "105143446",
+      "vehicle_type": "Van",
+      "distance_traveled": "25.5 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-02-17T21:43:26Z"
+    },
+    {
+      "ride_id": "202187716",
+      "vehicle_type": "SUV",
+      "distance_traveled": "27.8 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-06-07T00:57:20Z"
+    },
+    {
+      "ride_id": "249773740",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "27.9 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-07-19T15:29:50Z"
+    },
+    {
+      "ride_id": "254602809",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "17.4 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-07-29T01:48:09Z"
+    },
+    {
+      "ride_id": "172478216",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "14.1 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-10-23T04:48:39Z"
+    },
+    {
+      "ride_id": "165597817",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "24.5 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-05-29T06:04:17Z"
+    },
+    {
+      "ride_id": "252459922",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "9.9 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-04-03T17:43:51Z"
+    },
+    {
+      "ride_id": "144270952",
+      "vehicle_type": "Van",
+      "distance_traveled": "12.2 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-08-31T12:48:05Z"
+    },
+    {
+      "ride_id": "303486058",
+      "vehicle_type": "SUV",
+      "distance_traveled": "20.9 km",
+      "ride_duration": "12 minutes",
+      "start_time": "2024-01-27T09:05:34Z"
+    },
+    {
+      "ride_id": "198443188",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "13.9 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-06-19T06:17:33Z"
+    },
+    {
+      "ride_id": "121133855",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "6.5 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-01-17T10:33:09Z"
+    },
+    {
+      "ride_id": "238186337",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "24.5 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-12-22T08:26:27Z"
+    },
+    {
+      "ride_id": "323191001",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "25.0 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-03-24T06:35:52Z"
+    },
+    {
+      "ride_id": "185784481",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "28.3 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-11-25T18:18:49Z"
+    },
+    {
+      "ride_id": "124589946",
+      "vehicle_type": "SUV",
+      "distance_traveled": "15.1 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-06-14T19:34:17Z"
+    },
+    {
+      "ride_id": "152577850",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "19.2 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-06-22T15:55:42Z"
+    },
+    {
+      "ride_id": "836999905",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "7.4 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-09-21T15:32:22Z"
+    },
+    {
+      "ride_id": "271334526",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.2 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-02-08T05:54:28Z"
+    },
+    {
+      "ride_id": "286094556",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "21.9 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-09-01T05:24:21Z"
+    },
+    {
+      "ride_id": "311957972",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "19.9 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-09-18T00:08:26Z"
+    },
+    {
+      "ride_id": "188845354",
+      "vehicle_type": "SUV",
+      "distance_traveled": "23.5 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-09-26T22:34:28Z"
+    },
+    {
+      "ride_id": "245712143",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "10.8 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-03-28T09:05:12Z"
+    },
+    {
+      "ride_id": "384319921",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "11.7 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-03-28T22:11:08Z"
+    },
+    {
+      "ride_id": "119968643",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "17.1 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-07-02T00:53:04Z"
+    },
+    {
+      "ride_id": "302023221",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "29.7 km",
+      "ride_duration": "60 minutes",
+      "start_time": "2024-04-11T11:27:16Z"
+    },
+    {
+      "ride_id": "126386088",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "19.5 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-01-17T22:19:41Z"
+    },
+    {
+      "ride_id": "167836275",
+      "vehicle_type": "SUV",
+      "distance_traveled": "9.4 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-09-10T21:35:04Z"
+    },
+    {
+      "ride_id": "139806500",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "16.4 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-06-30T05:55:58Z"
+    },
+    {
+      "ride_id": "209466717",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "29.7 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-01-23T17:22:32Z"
+    },
+    {
+      "ride_id": "329336982",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.9 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-03-05T09:30:37Z"
+    },
+    {
+      "ride_id": "179502592",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "19.2 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-10-04T02:55:35Z"
+    },
+    {
+      "ride_id": "192564631",
+      "vehicle_type": "Van",
+      "distance_traveled": "21.2 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-10-23T04:53:58Z"
+    },
+    {
+      "ride_id": "237269472",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "28.8 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-12-27T00:33:03Z"
+    },
+    {
+      "ride_id": "166284741",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "7.0 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-11-12T14:28:22Z"
+    },
+    {
+      "ride_id": "144547424",
+      "vehicle_type": "Van",
+      "distance_traveled": "27.1 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-02-25T14:26:33Z"
+    },
+    {
+      "ride_id": "919615595",
+      "vehicle_type": "Van",
+      "distance_traveled": "12.7 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-12-03T23:55:25Z"
+    },
+    {
+      "ride_id": "305960671",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "26.7 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-08-08T06:18:18Z"
+    },
+    {
+      "ride_id": "113472876",
+      "vehicle_type": "SUV",
+      "distance_traveled": "21.5 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-02-13T09:43:00Z"
+    },
+    {
+      "ride_id": "149021512",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "14.5 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-09-26T20:21:17Z"
+    },
+    {
+      "ride_id": "124158961",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "27.3 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-08-17T07:56:15Z"
+    },
+    {
+      "ride_id": "333500551",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "24.0 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-10-19T03:47:36Z"
+    },
+    {
+      "ride_id": "847181613",
+      "vehicle_type": "SUV",
+      "distance_traveled": "7.1 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-06-07T20:25:28Z"
+    },
+    {
+      "ride_id": "119582152",
+      "vehicle_type": "SUV",
+      "distance_traveled": "18.6 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-03-01T23:03:36Z"
+    },
+    {
+      "ride_id": "262549440",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "23.3 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-11-01T22:44:08Z"
+    },
+    {
+      "ride_id": "133588974",
+      "vehicle_type": "Van",
+      "distance_traveled": "15.5 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-12-19T08:00:32Z"
+    },
+    {
+      "ride_id": "168551540",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "7.4 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-12-04T00:15:55Z"
+    },
+    {
+      "ride_id": "487943651",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "16.0 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-07-22T11:05:32Z"
+    },
+    {
+      "ride_id": "260499576",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "20.9 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-03-21T01:44:01Z"
+    },
+    {
+      "ride_id": "254048033",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "8.6 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-02-22T04:41:50Z"
+    },
+    {
+      "ride_id": "124422133",
+      "vehicle_type": "SUV",
+      "distance_traveled": "24.1 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-09-13T03:13:14Z"
+    },
+    {
+      "ride_id": "209727306",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "9.0 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-02-18T20:44:37Z"
+    },
+    {
+      "ride_id": "480139339",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "28.5 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-03-31T23:48:55Z"
+    },
+    {
+      "ride_id": "913564953",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "11.8 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-07-25T11:04:51Z"
+    },
+    {
+      "ride_id": "193376205",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "15.3 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-01-02T01:54:29Z"
+    },
+    {
+      "ride_id": "127834287",
+      "vehicle_type": "SUV",
+      "distance_traveled": "10.0 km",
+      "ride_duration": "60 minutes",
+      "start_time": "2024-03-20T19:54:39Z"
+    },
+    {
+      "ride_id": "302380689",
+      "vehicle_type": "Van",
+      "distance_traveled": "29.1 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-07-07T06:42:20Z"
+    },
+    {
+      "ride_id": "180414509",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "19.8 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-02-24T01:48:51Z"
+    },
+    {
+      "ride_id": "273893964",
+      "vehicle_type": "SUV",
+      "distance_traveled": "20.9 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-04-29T02:39:49Z"
+    },
+    {
+      "ride_id": "334607561",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "11.9 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-06-12T08:46:33Z"
+    },
+    {
+      "ride_id": "987099435",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "29.3 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-10-26T15:17:43Z"
+    },
+    {
+      "ride_id": "290511681",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "5.2 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-04-14T04:22:52Z"
+    },
+    {
+      "ride_id": "198249225",
+      "vehicle_type": "SUV",
+      "distance_traveled": "8.7 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-10-31T08:11:56Z"
+    },
+    {
+      "ride_id": "140463858",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "17.2 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-06-05T06:51:01Z"
+    },
+    {
+      "ride_id": "143757886",
+      "vehicle_type": "Van",
+      "distance_traveled": "8.1 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-07-04T21:53:51Z"
+    },
+    {
+      "ride_id": "262967864",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "24.2 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-02-10T00:08:02Z"
+    },
+    {
+      "ride_id": "108960868",
+      "vehicle_type": "Van",
+      "distance_traveled": "15.8 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-08-25T10:46:21Z"
+    },
+    {
+      "ride_id": "166265184",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "9.4 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-04-07T22:35:57Z"
+    },
+    {
+      "ride_id": "180696154",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "6.5 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-12-16T21:59:43Z"
+    },
+    {
+      "ride_id": "800272772",
+      "vehicle_type": "Van",
+      "distance_traveled": "18.7 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-04-16T13:46:00Z"
+    },
+    {
+      "ride_id": "905067298",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "13.8 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-08-26T17:45:03Z"
+    },
+    {
+      "ride_id": "301188552",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "12.0 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-07-26T10:05:51Z"
+    },
+    {
+      "ride_id": "331958277",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "5.1 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-07-21T03:07:50Z"
+    },
+    {
+      "ride_id": "261698998",
+      "vehicle_type": "Van",
+      "distance_traveled": "18.2 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-01-10T21:53:55Z"
+    },
+    {
+      "ride_id": "568018442",
+      "vehicle_type": "Van",
+      "distance_traveled": "13.9 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-03-17T15:48:08Z"
+    },
+    {
+      "ride_id": "134203722",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.2 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-10-23T18:59:58Z"
+    },
+    {
+      "ride_id": "321942794",
+      "vehicle_type": "SUV",
+      "distance_traveled": "23.1 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-09-13T03:07:41Z"
+    },
+    {
+      "ride_id": "677056770",
+      "vehicle_type": "Van",
+      "distance_traveled": "7.2 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-08-10T22:49:48Z"
+    },
+    {
+      "ride_id": "135205515",
+      "vehicle_type": "SUV",
+      "distance_traveled": "14.8 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-08-01T19:08:55Z"
+    },
+    {
+      "ride_id": "978353790",
+      "vehicle_type": "Van",
+      "distance_traveled": "27.4 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-08-24T23:26:13Z"
+    },
+    {
+      "ride_id": "800944281",
+      "vehicle_type": "SUV",
+      "distance_traveled": "27.2 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-03-07T15:53:27Z"
+    },
+    {
+      "ride_id": "257826902",
+      "vehicle_type": "SUV",
+      "distance_traveled": "25.0 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-10-05T22:10:13Z"
+    },
+    {
+      "ride_id": "311913760",
+      "vehicle_type": "Van",
+      "distance_traveled": "16.9 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-03-23T13:48:30Z"
+    },
+    {
+      "ride_id": "162654033",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "9.0 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-11-17T00:34:03Z"
+    },
+    {
+      "ride_id": "101373689",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "17.6 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-04-21T19:39:57Z"
+    },
+    {
+      "ride_id": "348899778",
+      "vehicle_type": "SUV",
+      "distance_traveled": "26.7 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-08-21T16:04:33Z"
+    },
+    {
+      "ride_id": "212882303",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "10.0 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-09-25T06:19:25Z"
+    },
+    {
+      "ride_id": "127392817",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "13.6 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-01-29T08:32:27Z"
+    },
+    {
+      "ride_id": "290747307",
+      "vehicle_type": "SUV",
+      "distance_traveled": "25.7 km",
+      "ride_duration": "12 minutes",
+      "start_time": "2024-03-28T21:16:14Z"
+    },
+    {
+      "ride_id": "219223771",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "12.1 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-04-02T13:39:09Z"
+    },
+    {
+      "ride_id": "262545836",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "26.5 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-10-02T13:21:05Z"
+    },
+    {
+      "ride_id": "981603781",
+      "vehicle_type": "Van",
+      "distance_traveled": "23.3 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-04-20T09:33:10Z"
+    },
+    {
+      "ride_id": "271457355",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "18.5 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-05-30T11:10:29Z"
+    },
+    {
+      "ride_id": "153804574",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "29.4 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-11-13T10:19:30Z"
+    },
+    {
+      "ride_id": "253169650",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "12.1 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-10-05T02:18:42Z"
+    },
+    {
+      "ride_id": "193155694",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.8 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-05-15T06:18:30Z"
+    },
+    {
+      "ride_id": "300102266",
+      "vehicle_type": "Van",
+      "distance_traveled": "18.7 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-10-20T10:16:33Z"
+    },
+    {
+      "ride_id": "207371265",
+      "vehicle_type": "SUV",
+      "distance_traveled": "19.1 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-12-27T02:00:45Z"
+    },
+    {
+      "ride_id": "183919598",
+      "vehicle_type": "Van",
+      "distance_traveled": "18.1 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-04-24T08:28:23Z"
+    },
+    {
+      "ride_id": "225639259",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "27.7 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-05-22T09:52:50Z"
+    },
+    {
+      "ride_id": "186758879",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.8 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-01-24T10:08:34Z"
+    },
+    {
+      "ride_id": "883764713",
+      "vehicle_type": "Van",
+      "distance_traveled": "23.6 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-05-18T10:33:22Z"
+    },
+    {
+      "ride_id": "162008870",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.5 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-09-02T19:27:42Z"
+    },
+    {
+      "ride_id": "158223830",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "20.7 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-07-31T07:55:35Z"
+    },
+    {
+      "ride_id": "296294098",
+      "vehicle_type": "Van",
+      "distance_traveled": "16.1 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-07-30T23:15:28Z"
+    },
+    {
+      "ride_id": "150015513",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "9.6 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-07-04T04:14:52Z"
+    },
+    {
+      "ride_id": "183605593",
+      "vehicle_type": "Van",
+      "distance_traveled": "20.3 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-01-26T18:40:26Z"
+    },
+    {
+      "ride_id": "336055126",
+      "vehicle_type": "Van",
+      "distance_traveled": "10.1 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-08-29T14:40:49Z"
+    },
+    {
+      "ride_id": "237102303",
+      "vehicle_type": "Van",
+      "distance_traveled": "14.1 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-07-31T13:13:50Z"
+    },
+    {
+      "ride_id": "142485630",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "9.1 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-04-29T09:03:30Z"
+    },
+    {
+      "ride_id": "269259369",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.1 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-06-28T12:03:46Z"
+    },
+    {
+      "ride_id": "301134981",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "21.2 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-08-02T12:15:49Z"
+    },
+    {
+      "ride_id": "301104823",
+      "vehicle_type": "SUV",
+      "distance_traveled": "26.5 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-05-24T19:44:09Z"
+    },
+    {
+      "ride_id": "130884215",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "12.0 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-11-18T01:54:49Z"
+    },
+    {
+      "ride_id": "216370154",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "9.6 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-08-09T19:57:35Z"
+    },
+    {
+      "ride_id": "236124184",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "19.9 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-12-03T06:43:11Z"
+    },
+    {
+      "ride_id": "102514348",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "7.0 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-12-02T18:24:43Z"
+    },
+    {
+      "ride_id": "595186742",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "15.5 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-02-11T07:46:09Z"
+    },
+    {
+      "ride_id": "340235934",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "15.6 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-07-06T12:17:53Z"
+    },
+    {
+      "ride_id": "156359389",
+      "vehicle_type": "SUV",
+      "distance_traveled": "12.5 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-07-21T10:19:11Z"
+    },
+    {
+      "ride_id": "228480381",
+      "vehicle_type": "Van",
+      "distance_traveled": "21.5 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-08-23T04:27:16Z"
+    },
+    {
+      "ride_id": "145378498",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.6 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-05-23T23:09:25Z"
+    },
+    {
+      "ride_id": "264959532",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "27.6 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-06-15T17:22:05Z"
+    },
+    {
+      "ride_id": "288479216",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "29.1 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-08-08T19:46:34Z"
+    },
+    {
+      "ride_id": "163689171",
+      "vehicle_type": "Van",
+      "distance_traveled": "17.7 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-10-16T15:25:25Z"
+    },
+    {
+      "ride_id": "127551742",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "7.9 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-08-17T21:33:50Z"
+    },
+    {
+      "ride_id": "199151397",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "29.3 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-09-22T05:33:41Z"
+    },
+    {
+      "ride_id": "387741491",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "13.9 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-08-04T20:37:35Z"
+    },
+    {
+      "ride_id": "147697482",
+      "vehicle_type": "Van",
+      "distance_traveled": "11.5 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-09-27T06:51:53Z"
+    },
+    {
+      "ride_id": "201349616",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "16.0 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-05-23T19:27:14Z"
+    },
+    {
+      "ride_id": "249135230",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "5.4 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-02-23T18:26:18Z"
+    },
+    {
+      "ride_id": "402727243",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "21.4 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-03-28T05:48:08Z"
+    },
+    {
+      "ride_id": "172244527",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "15.4 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-12-26T12:03:23Z"
+    },
+    {
+      "ride_id": "222097886",
+      "vehicle_type": "SUV",
+      "distance_traveled": "16.7 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-07-19T09:45:01Z"
+    },
+    {
+      "ride_id": "247631290",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "23.0 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-10-26T00:47:14Z"
+    },
+    {
+      "ride_id": "313852072",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "25.0 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-03-06T14:39:25Z"
+    },
+    {
+      "ride_id": "136457267",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "6.0 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-07-15T13:19:53Z"
+    },
+    {
+      "ride_id": "247300899",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "16.6 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-10-01T15:03:15Z"
+    },
+    {
+      "ride_id": "175420361",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "20.8 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-11-30T16:14:29Z"
+    },
+    {
+      "ride_id": "172631327",
+      "vehicle_type": "SUV",
+      "distance_traveled": "18.3 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-09-17T09:01:12Z"
+    },
+    {
+      "ride_id": "248764550",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "12.6 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-05-02T05:52:34Z"
+    },
+    {
+      "ride_id": "139254501",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.5 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-01-23T09:40:20Z"
+    },
+    {
+      "ride_id": "873500547",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "24.6 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-08-28T17:38:01Z"
+    },
+    {
+      "ride_id": "807490487",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "21.5 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-02-14T12:47:20Z"
+    },
+    {
+      "ride_id": "253288243",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "11.4 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-10-26T03:24:39Z"
+    },
+    {
+      "ride_id": "270720304",
+      "vehicle_type": "SUV",
+      "distance_traveled": "26.2 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-06-16T23:04:40Z"
+    },
+    {
+      "ride_id": "426838323",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "12.1 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-06-16T19:36:41Z"
+    },
+    {
+      "ride_id": "818627735",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "9.2 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-08-07T10:40:24Z"
+    },
+    {
+      "ride_id": "261727875",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "7.8 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-05-10T20:41:18Z"
+    },
+    {
+      "ride_id": "185494001",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "5.0 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-08-22T18:24:43Z"
+    },
+    {
+      "ride_id": "137393271",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "13.5 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-05-27T23:07:02Z"
+    },
+    {
+      "ride_id": "320673739",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "6.0 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-03-16T18:06:04Z"
+    },
+    {
+      "ride_id": "110135941",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "17.8 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-11-30T05:21:14Z"
+    },
+    {
+      "ride_id": "270682531",
+      "vehicle_type": "Van",
+      "distance_traveled": "26.8 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-11-23T07:38:41Z"
+    },
+    {
+      "ride_id": "254823348",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "13.4 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-12-06T00:23:16Z"
+    },
+    {
+      "ride_id": "261834210",
+      "vehicle_type": "Van",
+      "distance_traveled": "27.3 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-11-18T18:29:04Z"
+    },
+    {
+      "ride_id": "281024639",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "26.2 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-06-23T11:17:20Z"
+    },
+    {
+      "ride_id": "380013797",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.1 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-04-18T02:07:23Z"
+    },
+    {
+      "ride_id": "633243824",
+      "vehicle_type": "Van",
+      "distance_traveled": "12.8 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-06-22T05:42:58Z"
+    },
+    {
+      "ride_id": "164176643",
+      "vehicle_type": "Van",
+      "distance_traveled": "10.0 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-06-12T15:27:33Z"
+    },
+    {
+      "ride_id": "710815060",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "13.8 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-11-11T09:23:45Z"
+    },
+    {
+      "ride_id": "236947771",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "22.3 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-04-25T07:45:57Z"
+    },
+    {
+      "ride_id": "164803558",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "20.0 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-12-16T23:41:37Z"
+    },
+    {
+      "ride_id": "933605720",
+      "vehicle_type": "Van",
+      "distance_traveled": "7.1 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-09-22T04:38:24Z"
+    },
+    {
+      "ride_id": "295269747",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "7.7 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-07-04T22:01:24Z"
+    },
+    {
+      "ride_id": "135673837",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "22.5 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-04-05T13:30:25Z"
+    },
+    {
+      "ride_id": "141338984",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "11.5 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-07-07T01:53:13Z"
+    },
+    {
+      "ride_id": "182523258",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "20.8 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-01-24T22:51:10Z"
+    },
+    {
+      "ride_id": "194142259",
+      "vehicle_type": "Van",
+      "distance_traveled": "29.4 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-08-12T15:06:40Z"
+    },
+    {
+      "ride_id": "576395236",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "23.1 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-03-24T22:35:20Z"
+    },
+    {
+      "ride_id": "408469239",
+      "vehicle_type": "Van",
+      "distance_traveled": "23.8 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-03-11T05:40:40Z"
+    },
+    {
+      "ride_id": "223342647",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "9.4 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-08-31T07:46:08Z"
+    },
+    {
+      "ride_id": "237767347",
+      "vehicle_type": "SUV",
+      "distance_traveled": "18.9 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-07-11T17:13:52Z"
+    },
+    {
+      "ride_id": "104013150",
+      "vehicle_type": "SUV",
+      "distance_traveled": "19.3 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-01-11T20:27:56Z"
+    },
+    {
+      "ride_id": "375768277",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "9.7 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-07-23T20:50:13Z"
+    },
+    {
+      "ride_id": "139477467",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.1 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-02-04T16:02:15Z"
+    },
+    {
+      "ride_id": "161664263",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "28.0 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-03-19T03:40:55Z"
+    },
+    {
+      "ride_id": "585962524",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "12.5 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-03-25T05:31:19Z"
+    },
+    {
+      "ride_id": "174891744",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "6.6 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-08-13T22:38:40Z"
+    },
+    {
+      "ride_id": "145307525",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "25.7 km",
+      "ride_duration": "12 minutes",
+      "start_time": "2024-08-29T21:55:41Z"
+    },
+    {
+      "ride_id": "207411218",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "26.0 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-02-09T18:10:28Z"
+    },
+    {
+      "ride_id": "250821178",
+      "vehicle_type": "SUV",
+      "distance_traveled": "15.7 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-10-14T07:43:51Z"
+    },
+    {
+      "ride_id": "162601743",
+      "vehicle_type": "Van",
+      "distance_traveled": "13.7 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-09-01T00:41:14Z"
+    },
+    {
+      "ride_id": "120101972",
+      "vehicle_type": "SUV",
+      "distance_traveled": "12.2 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-11-05T10:23:05Z"
+    },
+    {
+      "ride_id": "268530815",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "25.9 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-06-25T09:42:13Z"
+    },
+    {
+      "ride_id": "209147467",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "22.9 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-02-20T06:14:55Z"
+    },
+    {
+      "ride_id": "211171740",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "13.6 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-03-14T20:33:07Z"
+    },
+    {
+      "ride_id": "225725858",
+      "vehicle_type": "Van",
+      "distance_traveled": "20.1 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-12-14T03:09:45Z"
+    },
+    {
+      "ride_id": "109279360",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "14.1 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-08-09T20:31:45Z"
+    },
+    {
+      "ride_id": "284167639",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "11.5 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-01-16T23:14:46Z"
+    },
+    {
+      "ride_id": "334166431",
+      "vehicle_type": "Van",
+      "distance_traveled": "12.5 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-04-03T12:06:01Z"
+    },
+    {
+      "ride_id": "249537389",
+      "vehicle_type": "Van",
+      "distance_traveled": "23.0 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-09-30T12:24:06Z"
+    },
+    {
+      "ride_id": "726172790",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "5.3 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-04-04T08:26:26Z"
+    },
+    {
+      "ride_id": "168785556",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "26.4 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-04-16T11:51:28Z"
+    },
+    {
+      "ride_id": "156191642",
+      "vehicle_type": "SUV",
+      "distance_traveled": "18.4 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-07-22T22:34:54Z"
+    },
+    {
+      "ride_id": "166123289",
+      "vehicle_type": "SUV",
+      "distance_traveled": "6.5 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-04-05T09:18:54Z"
+    },
+    {
+      "ride_id": "489663895",
+      "vehicle_type": "SUV",
+      "distance_traveled": "23.1 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-10-11T05:29:39Z"
+    },
+    {
+      "ride_id": "102476265",
+      "vehicle_type": "Van",
+      "distance_traveled": "7.2 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-06-19T15:28:35Z"
+    },
+    {
+      "ride_id": "155083195",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "22.9 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-12-11T19:23:53Z"
+    },
+    {
+      "ride_id": "313102383",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "28.6 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-10-11T10:49:51Z"
+    },
+    {
+      "ride_id": "116092589",
+      "vehicle_type": "Van",
+      "distance_traveled": "19.1 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-12-18T16:36:58Z"
+    },
+    {
+      "ride_id": "278195846",
+      "vehicle_type": "Van",
+      "distance_traveled": "6.9 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-10-23T03:59:00Z"
+    },
+    {
+      "ride_id": "247734337",
+      "vehicle_type": "SUV",
+      "distance_traveled": "29.3 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-09-11T14:13:26Z"
+    },
+    {
+      "ride_id": "157655397",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "23.8 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-05-22T20:19:48Z"
+    },
+    {
+      "ride_id": "299670157",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "11.5 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-05-14T04:42:13Z"
+    },
+    {
+      "ride_id": "530659101",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.2 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-10-06T19:49:48Z"
+    },
+    {
+      "ride_id": "165201798",
+      "vehicle_type": "SUV",
+      "distance_traveled": "12.1 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-12-17T15:10:06Z"
+    },
+    {
+      "ride_id": "831769013",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.6 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-06-11T12:10:15Z"
+    },
+    {
+      "ride_id": "271507457",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "24.9 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-04-01T19:09:09Z"
+    },
+    {
+      "ride_id": "577720330",
+      "vehicle_type": "Van",
+      "distance_traveled": "14.3 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-12-08T05:00:15Z"
+    },
+    {
+      "ride_id": "798093985",
+      "vehicle_type": "Van",
+      "distance_traveled": "18.4 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-05-12T13:02:27Z"
+    },
+    {
+      "ride_id": "242291160",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "12.7 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-03-24T22:01:49Z"
+    },
+    {
+      "ride_id": "286114542",
+      "vehicle_type": "Van",
+      "distance_traveled": "13.4 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-12-07T20:42:37Z"
+    },
+    {
+      "ride_id": "318192130",
+      "vehicle_type": "SUV",
+      "distance_traveled": "18.7 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-02-25T17:57:12Z"
+    },
+    {
+      "ride_id": "325614800",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "13.4 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-06-11T21:08:05Z"
+    },
+    {
+      "ride_id": "616613073",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "17.9 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-03-29T13:21:03Z"
+    },
+    {
+      "ride_id": "219095002",
+      "vehicle_type": "Van",
+      "distance_traveled": "14.8 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-08-10T12:36:12Z"
+    },
+    {
+      "ride_id": "305615972",
+      "vehicle_type": "Van",
+      "distance_traveled": "5.5 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-08-08T22:18:20Z"
+    },
+    {
+      "ride_id": "241582864",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "27.6 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-01-17T09:21:14Z"
+    },
+    {
+      "ride_id": "858969690",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "23.2 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-05-15T13:12:17Z"
+    },
+    {
+      "ride_id": "201772118",
+      "vehicle_type": "Van",
+      "distance_traveled": "6.9 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-10-20T10:30:13Z"
+    },
+    {
+      "ride_id": "277710307",
+      "vehicle_type": "SUV",
+      "distance_traveled": "17.1 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-05-04T16:02:11Z"
+    },
+    {
+      "ride_id": "949113541",
+      "vehicle_type": "Van",
+      "distance_traveled": "5.8 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-06-28T15:42:51Z"
+    },
+    {
+      "ride_id": "274268730",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "16.9 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-02-16T05:30:55Z"
+    },
+    {
+      "ride_id": "401752273",
+      "vehicle_type": "Van",
+      "distance_traveled": "28.2 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-09-03T21:00:16Z"
+    },
+    {
+      "ride_id": "250940224",
+      "vehicle_type": "SUV",
+      "distance_traveled": "27.9 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-09-26T14:50:53Z"
+    },
+    {
+      "ride_id": "197731871",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "28.5 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-04-02T11:23:43Z"
+    },
+    {
+      "ride_id": "252454552",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "12.5 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-08-29T23:17:55Z"
+    },
+    {
+      "ride_id": "260513992",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "14.3 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-09-04T06:58:10Z"
+    },
+    {
+      "ride_id": "165768952",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "15.5 km",
+      "ride_duration": "51 minutes",
+      "start_time": "2024-05-20T21:14:14Z"
+    },
+    {
+      "ride_id": "159606262",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "13.5 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-08-16T17:47:10Z"
+    },
+    {
+      "ride_id": "989620915",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "7.8 km",
+      "ride_duration": "17 minutes",
+      "start_time": "2024-05-21T11:16:56Z"
+    },
+    {
+      "ride_id": "383288453",
+      "vehicle_type": "Van",
+      "distance_traveled": "11.1 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-12-24T03:00:00Z"
+    },
+    {
+      "ride_id": "196143081",
+      "vehicle_type": "SUV",
+      "distance_traveled": "11.3 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-09-08T17:20:43Z"
+    },
+    {
+      "ride_id": "183452796",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "15.8 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-08-19T13:13:28Z"
+    },
+    {
+      "ride_id": "280595089",
+      "vehicle_type": "Van",
+      "distance_traveled": "10.4 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-01-06T03:54:40Z"
+    },
+    {
+      "ride_id": "236053542",
+      "vehicle_type": "SUV",
+      "distance_traveled": "29.6 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-05-01T15:09:20Z"
+    },
+    {
+      "ride_id": "150950047",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "16.0 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-03-14T01:07:41Z"
+    },
+    {
+      "ride_id": "182753538",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "19.2 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-08-04T06:04:13Z"
+    },
+    {
+      "ride_id": "213995444",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "14.5 km",
+      "ride_duration": "43 minutes",
+      "start_time": "2024-06-30T17:04:11Z"
+    },
+    {
+      "ride_id": "207967852",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "13.0 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-12-07T05:13:31Z"
+    },
+    {
+      "ride_id": "279237902",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "6.7 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-05-11T09:37:48Z"
+    },
+    {
+      "ride_id": "271095148",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "22.8 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-11-21T06:25:52Z"
+    },
+    {
+      "ride_id": "447007284",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "14.8 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-12-28T09:36:13Z"
+    },
+    {
+      "ride_id": "642420550",
+      "vehicle_type": "Van",
+      "distance_traveled": "13.7 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-04-08T11:20:15Z"
+    },
+    {
+      "ride_id": "287384543",
+      "vehicle_type": "Van",
+      "distance_traveled": "14.3 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-06-06T21:17:03Z"
+    },
+    {
+      "ride_id": "160229856",
+      "vehicle_type": "Van",
+      "distance_traveled": "14.0 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-10-16T18:58:13Z"
+    },
+    {
+      "ride_id": "339334417",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "19.7 km",
+      "ride_duration": "13 minutes",
+      "start_time": "2024-10-25T21:18:42Z"
+    },
+    {
+      "ride_id": "757118829",
+      "vehicle_type": "Van",
+      "distance_traveled": "7.9 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-03-08T18:13:10Z"
+    },
+    {
+      "ride_id": "135979082",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "29.1 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-01-18T01:48:09Z"
+    },
+    {
+      "ride_id": "134542802",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "12.6 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-07-18T18:10:41Z"
+    },
+    {
+      "ride_id": "122575344",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "10.9 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-04-05T23:16:11Z"
+    },
+    {
+      "ride_id": "125319302",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "18.9 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-12-16T01:36:16Z"
+    },
+    {
+      "ride_id": "787948619",
+      "vehicle_type": "SUV",
+      "distance_traveled": "19.8 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-04-04T21:40:46Z"
+    },
+    {
+      "ride_id": "188790397",
+      "vehicle_type": "Van",
+      "distance_traveled": "18.8 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-12-18T21:08:00Z"
+    },
+    {
+      "ride_id": "223378338",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "13.7 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-04-09T03:54:51Z"
+    },
+    {
+      "ride_id": "338049422",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "6.0 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-06-25T16:51:09Z"
+    },
+    {
+      "ride_id": "659091591",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "24.0 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-04-04T09:51:46Z"
+    },
+    {
+      "ride_id": "313105150",
+      "vehicle_type": "Van",
+      "distance_traveled": "20.2 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-07-21T17:01:30Z"
+    },
+    {
+      "ride_id": "221218318",
+      "vehicle_type": "Van",
+      "distance_traveled": "11.9 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-04-10T10:10:06Z"
+    },
+    {
+      "ride_id": "196156851",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "19.1 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-02-25T09:56:35Z"
+    },
+    {
+      "ride_id": "432442482",
+      "vehicle_type": "SUV",
+      "distance_traveled": "19.7 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-11-18T20:17:21Z"
+    },
+    {
+      "ride_id": "799460203",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "28.8 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-05-06T10:29:43Z"
+    },
+    {
+      "ride_id": "142459214",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "8.3 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-04-14T08:56:52Z"
+    },
+    {
+      "ride_id": "222250918",
+      "vehicle_type": "Van",
+      "distance_traveled": "21.6 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-07-10T09:33:51Z"
+    },
+    {
+      "ride_id": "246633262",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "16.0 km",
+      "ride_duration": "28 minutes",
+      "start_time": "2024-01-06T06:56:17Z"
+    },
+    {
+      "ride_id": "285055598",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "10.1 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-04-21T03:20:07Z"
+    },
+    {
+      "ride_id": "346152083",
+      "vehicle_type": "SUV",
+      "distance_traveled": "9.0 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-03-17T19:30:10Z"
+    },
+    {
+      "ride_id": "110618541",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.3 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-06-18T01:09:00Z"
+    },
+    {
+      "ride_id": "499297714",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "15.2 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-05-08T12:53:15Z"
+    },
+    {
+      "ride_id": "206624926",
+      "vehicle_type": "Van",
+      "distance_traveled": "16.2 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-01-08T07:39:32Z"
+    },
+    {
+      "ride_id": "857109872",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "26.4 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-05-25T02:27:39Z"
+    },
+    {
+      "ride_id": "171420884",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "28.2 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-06-24T07:53:02Z"
+    },
+    {
+      "ride_id": "100278499",
+      "vehicle_type": "Van",
+      "distance_traveled": "10.2 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-02-16T20:00:44Z"
+    },
+    {
+      "ride_id": "211206131",
+      "vehicle_type": "SUV",
+      "distance_traveled": "8.9 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-07-12T07:38:56Z"
+    },
+    {
+      "ride_id": "458202611",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "9.8 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-09-12T07:22:16Z"
+    },
+    {
+      "ride_id": "203128804",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "5.7 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-07-28T00:25:30Z"
+    },
+    {
+      "ride_id": "287299647",
+      "vehicle_type": "Van",
+      "distance_traveled": "5.5 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-02-02T08:12:17Z"
+    },
+    {
+      "ride_id": "135088947",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "15.2 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-06-25T16:14:09Z"
+    },
+    {
+      "ride_id": "161956018",
+      "vehicle_type": "SUV",
+      "distance_traveled": "29.2 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-07-03T07:24:14Z"
+    },
+    {
+      "ride_id": "195464339",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "6.8 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-01-20T17:47:48Z"
+    },
+    {
+      "ride_id": "321890080",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "11.3 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-01-28T23:18:40Z"
+    },
+    {
+      "ride_id": "101038662",
+      "vehicle_type": "Van",
+      "distance_traveled": "18.3 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-05-12T05:18:57Z"
+    },
+    {
+      "ride_id": "240289559",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "22.6 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-05-13T20:13:11Z"
+    },
+    {
+      "ride_id": "324836834",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "23.7 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-03-04T20:36:09Z"
+    },
+    {
+      "ride_id": "135229724",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "29.5 km",
+      "ride_duration": "45 minutes",
+      "start_time": "2024-03-29T05:38:57Z"
+    },
+    {
+      "ride_id": "107023710",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "14.5 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-12-11T05:18:11Z"
+    },
+    {
+      "ride_id": "172670211",
+      "vehicle_type": "Van",
+      "distance_traveled": "5.1 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-08-01T12:43:01Z"
+    },
+    {
+      "ride_id": "262073533",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "16.0 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-03-16T00:01:46Z"
+    },
+    {
+      "ride_id": "156312330",
+      "vehicle_type": "SUV",
+      "distance_traveled": "20.6 km",
+      "ride_duration": "59 minutes",
+      "start_time": "2024-11-05T06:23:18Z"
+    },
+    {
+      "ride_id": "291243487",
+      "vehicle_type": "Van",
+      "distance_traveled": "22.6 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-08-05T15:44:28Z"
+    },
+    {
+      "ride_id": "220883089",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "16.5 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-01-01T16:56:57Z"
+    },
+    {
+      "ride_id": "549663781",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "9.2 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-06-04T07:31:22Z"
+    },
+    {
+      "ride_id": "187498953",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "23.2 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-06-25T02:25:53Z"
+    },
+    {
+      "ride_id": "248659668",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.5 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-11-12T19:44:34Z"
+    },
+    {
+      "ride_id": "235837179",
+      "vehicle_type": "SUV",
+      "distance_traveled": "21.2 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-10-31T19:20:12Z"
+    },
+    {
+      "ride_id": "164099497",
+      "vehicle_type": "SUV",
+      "distance_traveled": "18.2 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-05-26T16:59:37Z"
+    },
+    {
+      "ride_id": "254542545",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "22.9 km",
+      "ride_duration": "52 minutes",
+      "start_time": "2024-07-04T11:33:08Z"
+    },
+    {
+      "ride_id": "148390327",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "8.6 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-11-19T05:46:16Z"
+    },
+    {
+      "ride_id": "700797341",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "6.8 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-09-24T04:14:34Z"
+    },
+    {
+      "ride_id": "929876582",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.7 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-01-03T14:56:38Z"
+    },
+    {
+      "ride_id": "598184506",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.2 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-03-12T19:10:34Z"
+    },
+    {
+      "ride_id": "145944620",
+      "vehicle_type": "SUV",
+      "distance_traveled": "6.1 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-03-23T04:07:43Z"
+    },
+    {
+      "ride_id": "337383191",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "19.1 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-11-08T18:23:49Z"
+    },
+    {
+      "ride_id": "269421972",
+      "vehicle_type": "Van",
+      "distance_traveled": "26.4 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-10-11T12:05:15Z"
+    },
+    {
+      "ride_id": "166025690",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "28.2 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-05-13T20:44:56Z"
+    },
+    {
+      "ride_id": "224142053",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "27.5 km",
+      "ride_duration": "54 minutes",
+      "start_time": "2024-05-01T19:52:54Z"
+    },
+    {
+      "ride_id": "233383669",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "22.8 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-07-21T10:14:42Z"
+    },
+    {
+      "ride_id": "989035290",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "12.9 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-08-23T23:21:26Z"
+    },
+    {
+      "ride_id": "226733947",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "13.0 km",
+      "ride_duration": "15 minutes",
+      "start_time": "2024-01-04T12:42:15Z"
+    },
+    {
+      "ride_id": "170000423",
+      "vehicle_type": "Van",
+      "distance_traveled": "25.6 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-07-03T04:32:21Z"
+    },
+    {
+      "ride_id": "195144363",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "13.2 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-11-23T05:30:19Z"
+    },
+    {
+      "ride_id": "279543908",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "23.9 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-05-20T14:25:51Z"
+    },
+    {
+      "ride_id": "147167519",
+      "vehicle_type": "Van",
+      "distance_traveled": "25.9 km",
+      "ride_duration": "46 minutes",
+      "start_time": "2024-07-21T01:14:55Z"
+    },
+    {
+      "ride_id": "322786391",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.9 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-05-07T00:55:48Z"
+    },
+    {
+      "ride_id": "776417668",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "7.7 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-08-10T14:15:32Z"
+    },
+    {
+      "ride_id": "126110694",
+      "vehicle_type": "Van",
+      "distance_traveled": "17.9 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-04-21T11:37:19Z"
+    },
+    {
+      "ride_id": "656042023",
+      "vehicle_type": "Van",
+      "distance_traveled": "17.8 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-06-20T04:46:00Z"
+    },
+    {
+      "ride_id": "230481651",
+      "vehicle_type": "SUV",
+      "distance_traveled": "24.4 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-09-15T23:08:50Z"
+    },
+    {
+      "ride_id": "120364001",
+      "vehicle_type": "Van",
+      "distance_traveled": "11.5 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-06-06T16:43:46Z"
+    },
+    {
+      "ride_id": "168230616",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.1 km",
+      "ride_duration": "26 minutes",
+      "start_time": "2024-10-12T17:30:11Z"
+    },
+    {
+      "ride_id": "292427020",
+      "vehicle_type": "Van",
+      "distance_traveled": "7.3 km",
+      "ride_duration": "23 minutes",
+      "start_time": "2024-12-21T23:21:00Z"
+    },
+    {
+      "ride_id": "647215451",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "13.3 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-03-08T07:39:24Z"
+    },
+    {
+      "ride_id": "211880498",
+      "vehicle_type": "SUV",
+      "distance_traveled": "25.0 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-01-23T03:42:21Z"
+    },
+    {
+      "ride_id": "106882743",
+      "vehicle_type": "Van",
+      "distance_traveled": "11.5 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-05-23T02:02:38Z"
+    },
+    {
+      "ride_id": "431696832",
+      "vehicle_type": "Van",
+      "distance_traveled": "28.9 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-08-29T17:21:07Z"
+    },
+    {
+      "ride_id": "326229560",
+      "vehicle_type": "Van",
+      "distance_traveled": "10.5 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-02-10T06:00:53Z"
+    },
+    {
+      "ride_id": "125256720",
+      "vehicle_type": "SUV",
+      "distance_traveled": "22.8 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-04-15T16:12:32Z"
+    },
+    {
+      "ride_id": "868475664",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "22.3 km",
+      "ride_duration": "33 minutes",
+      "start_time": "2024-04-27T06:25:06Z"
+    },
+    {
+      "ride_id": "311088677",
+      "vehicle_type": "Van",
+      "distance_traveled": "7.8 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-10-26T07:01:49Z"
+    },
+    {
+      "ride_id": "213730044",
+      "vehicle_type": "SUV",
+      "distance_traveled": "27.1 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-03-15T12:29:41Z"
+    },
+    {
+      "ride_id": "336584002",
+      "vehicle_type": "SUV",
+      "distance_traveled": "17.1 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-11-05T22:29:54Z"
+    },
+    {
+      "ride_id": "252029029",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "15.0 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-07-03T08:30:44Z"
+    },
+    {
+      "ride_id": "123820502",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "5.1 km",
+      "ride_duration": "18 minutes",
+      "start_time": "2024-10-08T19:02:53Z"
+    },
+    {
+      "ride_id": "608540749",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "5.7 km",
+      "ride_duration": "57 minutes",
+      "start_time": "2024-12-30T21:15:34Z"
+    },
+    {
+      "ride_id": "263459843",
+      "vehicle_type": "Van",
+      "distance_traveled": "25.1 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-04-23T13:43:20Z"
+    },
+    {
+      "ride_id": "261925706",
+      "vehicle_type": "SUV",
+      "distance_traveled": "26.4 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-01-16T06:46:38Z"
+    },
+    {
+      "ride_id": "409667544",
+      "vehicle_type": "SUV",
+      "distance_traveled": "9.3 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-01-06T13:24:23Z"
+    },
+    {
+      "ride_id": "608884091",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "22.5 km",
+      "ride_duration": "19 minutes",
+      "start_time": "2024-06-13T19:46:08Z"
+    },
+    {
+      "ride_id": "460275812",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "20.6 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-07-22T17:43:51Z"
+    },
+    {
+      "ride_id": "175948766",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "28.6 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-11-25T07:17:07Z"
+    },
+    {
+      "ride_id": "345556463",
+      "vehicle_type": "SUV",
+      "distance_traveled": "29.5 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-08-03T03:47:26Z"
+    },
+    {
+      "ride_id": "270483201",
+      "vehicle_type": "Van",
+      "distance_traveled": "25.1 km",
+      "ride_duration": "12 minutes",
+      "start_time": "2024-07-31T11:28:35Z"
+    },
+    {
+      "ride_id": "206426953",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "16.4 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-04-05T19:55:49Z"
+    },
+    {
+      "ride_id": "298133255",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "8.2 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-01-26T17:43:40Z"
+    },
+    {
+      "ride_id": "102440889",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "26.0 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-05-08T22:15:38Z"
+    },
+    {
+      "ride_id": "331745315",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "29.3 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-03-12T19:10:15Z"
+    },
+    {
+      "ride_id": "678558470",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "16.4 km",
+      "ride_duration": "48 minutes",
+      "start_time": "2024-08-27T02:14:04Z"
+    },
+    {
+      "ride_id": "285022024",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "10.3 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-07-05T02:42:32Z"
+    },
+    {
+      "ride_id": "233966961",
+      "vehicle_type": "SUV",
+      "distance_traveled": "5.2 km",
+      "ride_duration": "24 minutes",
+      "start_time": "2024-04-16T12:28:26Z"
+    },
+    {
+      "ride_id": "289087190",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.1 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-02-16T22:48:46Z"
+    },
+    {
+      "ride_id": "174444407",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "17.5 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-03-30T02:41:11Z"
+    },
+    {
+      "ride_id": "127715795",
       "vehicle_type": "SUV",
       "distance_traveled": "7.8 km",
-      "ride_duration": "12 minutes",
-      "start_time": "2024-10-21T11:15:00Z"
+      "ride_duration": "28 minutes",
+      "start_time": "2024-09-21T06:36:00Z"
     },
     {
-      "ride_id": "456123789",
+      "ride_id": "248365967",
+      "vehicle_type": "SUV",
+      "distance_traveled": "12.3 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-01-02T10:20:29Z"
+    },
+    {
+      "ride_id": "161237677",
       "vehicle_type": "Hatchback",
+      "distance_traveled": "15.7 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-12-02T02:31:51Z"
+    },
+    {
+      "ride_id": "165701361",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "7.4 km",
+      "ride_duration": "50 minutes",
+      "start_time": "2024-01-14T02:50:00Z"
+    },
+    {
+      "ride_id": "427445890",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "7.8 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-09-09T18:29:20Z"
+    },
+    {
+      "ride_id": "331494237",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "25.3 km",
+      "ride_duration": "25 minutes",
+      "start_time": "2024-05-31T21:41:27Z"
+    },
+    {
+      "ride_id": "212891407",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "9.4 km",
+      "ride_duration": "27 minutes",
+      "start_time": "2024-08-03T10:53:03Z"
+    },
+    {
+      "ride_id": "304408622",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "19.7 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-09-12T13:37:06Z"
+    },
+    {
+      "ride_id": "175659855",
+      "vehicle_type": "SUV",
+      "distance_traveled": "16.3 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-02-10T14:01:33Z"
+    },
+    {
+      "ride_id": "215915826",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "6.6 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-09-08T07:46:38Z"
+    },
+    {
+      "ride_id": "288361361",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "15.7 km",
+      "ride_duration": "49 minutes",
+      "start_time": "2024-07-15T10:29:11Z"
+    },
+    {
+      "ride_id": "596246033",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "19.8 km",
+      "ride_duration": "42 minutes",
+      "start_time": "2024-11-17T00:12:15Z"
+    },
+    {
+      "ride_id": "508755360",
+      "vehicle_type": "SUV",
+      "distance_traveled": "10.1 km",
+      "ride_duration": "41 minutes",
+      "start_time": "2024-12-08T09:45:36Z"
+    },
+    {
+      "ride_id": "185477675",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "12.1 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-11-22T18:53:17Z"
+    },
+    {
+      "ride_id": "781768568",
+      "vehicle_type": "SUV",
+      "distance_traveled": "28.9 km",
+      "ride_duration": "29 minutes",
+      "start_time": "2024-03-16T11:27:04Z"
+    },
+    {
+      "ride_id": "194270853",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "10.5 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-03-31T12:07:09Z"
+    },
+    {
+      "ride_id": "189249054",
+      "vehicle_type": "SUV",
+      "distance_traveled": "24.9 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-03-22T18:15:03Z"
+    },
+    {
+      "ride_id": "249305162",
+      "vehicle_type": "Van",
+      "distance_traveled": "29.8 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-07-20T20:02:34Z"
+    },
+    {
+      "ride_id": "199435619",
+      "vehicle_type": "SUV",
+      "distance_traveled": "17.0 km",
+      "ride_duration": "12 minutes",
+      "start_time": "2024-04-21T06:14:23Z"
+    },
+    {
+      "ride_id": "289596900",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "16.0 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-06-24T13:02:24Z"
+    },
+    {
+      "ride_id": "250181147",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "25.5 km",
+      "ride_duration": "10 minutes",
+      "start_time": "2024-05-03T09:49:20Z"
+    },
+    {
+      "ride_id": "209527739",
+      "vehicle_type": "SUV",
+      "distance_traveled": "17.6 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-09-19T09:25:55Z"
+    },
+    {
+      "ride_id": "119614400",
+      "vehicle_type": "Coupe",
       "distance_traveled": "22.5 km",
+      "ride_duration": "53 minutes",
+      "start_time": "2024-03-08T06:06:04Z"
+    },
+    {
+      "ride_id": "234173436",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "14.7 km",
+      "ride_duration": "32 minutes",
+      "start_time": "2024-12-24T20:25:12Z"
+    },
+    {
+      "ride_id": "613643941",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "29.3 km",
+      "ride_duration": "38 minutes",
+      "start_time": "2024-12-29T15:14:16Z"
+    },
+    {
+      "ride_id": "921491253",
+      "vehicle_type": "Van",
+      "distance_traveled": "20.2 km",
+      "ride_duration": "11 minutes",
+      "start_time": "2024-06-12T16:37:24Z"
+    },
+    {
+      "ride_id": "160808371",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "16.3 km",
+      "ride_duration": "36 minutes",
+      "start_time": "2024-11-26T12:05:27Z"
+    },
+    {
+      "ride_id": "294121721",
+      "vehicle_type": "Van",
+      "distance_traveled": "13.7 km",
       "ride_duration": "40 minutes",
-      "start_time": "2024-10-21T14:00:00Z"
+      "start_time": "2024-04-21T00:15:58Z"
+    },
+    {
+      "ride_id": "125584229",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "12.0 km",
+      "ride_duration": "39 minutes",
+      "start_time": "2024-06-13T20:42:51Z"
+    },
+    {
+      "ride_id": "246268060",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "22.7 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-07-26T18:05:50Z"
+    },
+    {
+      "ride_id": "298206713",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "27.3 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-12-27T17:32:48Z"
+    },
+    {
+      "ride_id": "996710013",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "21.3 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-10-02T22:19:50Z"
+    },
+    {
+      "ride_id": "278320702",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "19.5 km",
+      "ride_duration": "16 minutes",
+      "start_time": "2024-11-11T05:58:22Z"
+    },
+    {
+      "ride_id": "235236987",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "28.4 km",
+      "ride_duration": "56 minutes",
+      "start_time": "2024-01-22T07:32:08Z"
+    },
+    {
+      "ride_id": "153887022",
+      "vehicle_type": "SUV",
+      "distance_traveled": "6.8 km",
+      "ride_duration": "30 minutes",
+      "start_time": "2024-06-10T01:07:50Z"
+    },
+    {
+      "ride_id": "612829243",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "13.7 km",
+      "ride_duration": "55 minutes",
+      "start_time": "2024-10-27T16:50:34Z"
+    },
+    {
+      "ride_id": "257863039",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "5.6 km",
+      "ride_duration": "31 minutes",
+      "start_time": "2024-04-12T08:21:31Z"
+    },
+    {
+      "ride_id": "720657437",
+      "vehicle_type": "Van",
+      "distance_traveled": "24.7 km",
+      "ride_duration": "22 minutes",
+      "start_time": "2024-05-22T14:12:02Z"
+    },
+    {
+      "ride_id": "935977148",
+      "vehicle_type": "Coupe",
+      "distance_traveled": "7.5 km",
+      "ride_duration": "21 minutes",
+      "start_time": "2024-01-29T04:25:36Z"
+    },
+    {
+      "ride_id": "494044650",
+      "vehicle_type": "SUV",
+      "distance_traveled": "18.7 km",
+      "ride_duration": "58 minutes",
+      "start_time": "2024-08-16T07:53:31Z"
+    },
+    {
+      "ride_id": "523900823",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "27.5 km",
+      "ride_duration": "44 minutes",
+      "start_time": "2024-12-01T10:07:34Z"
+    },
+    {
+      "ride_id": "133304739",
+      "vehicle_type": "SUV",
+      "distance_traveled": "17.5 km",
+      "ride_duration": "40 minutes",
+      "start_time": "2024-03-19T04:22:16Z"
+    },
+    {
+      "ride_id": "335278621",
+      "vehicle_type": "SUV",
+      "distance_traveled": "14.9 km",
+      "ride_duration": "35 minutes",
+      "start_time": "2024-06-16T11:46:49Z"
+    },
+    {
+      "ride_id": "217981968",
+      "vehicle_type": "SUV",
+      "distance_traveled": "13.7 km",
+      "ride_duration": "47 minutes",
+      "start_time": "2024-01-20T03:46:22Z"
+    },
+    {
+      "ride_id": "253661551",
+      "vehicle_type": "Hatchback",
+      "distance_traveled": "6.0 km",
+      "ride_duration": "37 minutes",
+      "start_time": "2024-10-31T05:37:47Z"
+    },
+    {
+      "ride_id": "265877974",
+      "vehicle_type": "Van",
+      "distance_traveled": "16.2 km",
+      "ride_duration": "34 minutes",
+      "start_time": "2024-02-17T21:54:29Z"
+    },
+    {
+      "ride_id": "244519111",
+      "vehicle_type": "SUV",
+      "distance_traveled": "23.5 km",
+      "ride_duration": "20 minutes",
+      "start_time": "2024-03-04T21:25:59Z"
+    },
+    {
+      "ride_id": "190179809",
+      "vehicle_type": "Sedan",
+      "distance_traveled": "26.6 km",
+      "ride_duration": "14 minutes",
+      "start_time": "2024-07-17T13:15:15Z"
     }
   ]
 }
